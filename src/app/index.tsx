@@ -1,98 +1,87 @@
-import * as Device from 'expo-device';
-import { Platform, StyleSheet } from 'react-native';
-import { SafeAreaView } from 'react-native-safe-area-context';
+import { router } from 'expo-router';
+import { Pressable, StyleSheet, View } from 'react-native';
 
-import { AnimatedIcon } from '@/components/animated-icon';
-import { HintRow } from '@/components/hint-row';
+import { Button } from '@/components/button';
+import { Screen } from '@/components/screen';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
-import { WebBadge } from '@/components/web-badge';
-import { BottomTabInset, MaxContentWidth, Spacing } from '@/constants/theme';
+import { Spacing } from '@/constants/theme';
+import { lessonsFor } from '@/data/lessons';
+import { useTheme } from '@/hooks/use-theme';
+import { locale, t } from '@/i18n';
+import { currentStreak, useProgress } from '@/store/progress';
 
-function getDevMenuHint() {
-  if (Platform.OS === 'web') {
-    return <ThemedText type="small">use browser devtools</ThemedText>;
-  }
-  if (Device.isDevice) {
-    return (
-      <ThemedText type="small">
-        shake device or press <ThemedText type="code">m</ThemedText> in terminal
-      </ThemedText>
-    );
-  }
-  const shortcut = Platform.OS === 'android' ? 'cmd+m (or ctrl+m)' : 'cmd+d';
-  return (
-    <ThemedText type="small">
-      press <ThemedText type="code">{shortcut}</ThemedText>
-    </ThemedText>
-  );
-}
+export default function Home() {
+  const theme = useTheme();
+  const { progress, setLanguage } = useProgress();
+  const language = progress.language ?? 'ksl';
+  const lessons = lessonsFor(language);
+  const today = lessons.find((l) => !progress.completedLessonIds.includes(l.id)) ?? lessons[0];
+  const streak = currentStreak(progress);
 
-export default function HomeScreen() {
   return (
-    <ThemedView style={styles.container}>
-      <SafeAreaView style={styles.safeArea}>
-        <ThemedView style={styles.heroSection}>
-          <AnimatedIcon />
-          <ThemedText type="title" style={styles.title}>
-            Welcome to&nbsp;Expo
-          </ThemedText>
+    <Screen>
+      <View style={styles.header}>
+        <ThemedText type="subtitle">Signday</ThemedText>
+        <ThemedView type="backgroundElement" style={styles.streak}>
+          <ThemedText style={styles.streakText}>🔥 {t.streak(streak)}</ThemedText>
         </ThemedView>
+      </View>
 
-        <ThemedText type="code" style={styles.code}>
-          get started
+      <ThemedView type="backgroundElement" style={styles.todayCard}>
+        <ThemedText type="small" themeColor="textSecondary">
+          {t.todayLesson} · {language.toUpperCase()}
         </ThemedText>
+        <ThemedText type="subtitle">{today.title[locale]}</ThemedText>
+        <ThemedText themeColor="textSecondary">
+          {today.signs.map((s) => s.meaning[locale]).join(' · ')}
+        </ThemedText>
+        <Button label={t.learn} onPress={() => router.push(`/lesson/${today.id}`)} />
+      </ThemedView>
 
-        <ThemedView type="backgroundElement" style={styles.stepContainer}>
-          <HintRow
-            title="Try editing"
-            hint={<ThemedText type="code">src/app/index.tsx</ThemedText>}
-          />
-          <HintRow title="Dev tools" hint={getDevMenuHint()} />
-          <HintRow
-            title="Fresh start"
-            hint={<ThemedText type="code">npm run reset-project</ThemedText>}
-          />
-        </ThemedView>
+      <ThemedText type="smallBold" themeColor="textSecondary" style={styles.section}>
+        {t.allLessons}
+      </ThemedText>
+      {lessons.map((l) => {
+        const done = progress.completedLessonIds.includes(l.id);
+        return (
+          <Pressable
+            key={l.id}
+            onPress={() => router.push(`/lesson/${l.id}`)}
+            style={[styles.row, { backgroundColor: theme.backgroundElement }]}>
+            <ThemedText style={styles.rowTitle}>{l.title[locale]}</ThemedText>
+            <ThemedText type="small" style={{ color: done ? theme.success : theme.textSecondary }}>
+              {done ? `✓ ${t.done}` : `${l.signs.length}`}
+            </ThemedText>
+          </Pressable>
+        );
+      })}
 
-        {Platform.OS === 'web' && <WebBadge />}
-      </SafeAreaView>
-    </ThemedView>
+      <Pressable
+        onPress={() => setLanguage(language === 'ksl' ? 'asl' : 'ksl')}
+        style={styles.switch}
+        accessibilityRole="button">
+        <ThemedText type="small" themeColor="textSecondary">
+          {t.changeLanguage} → {language === 'ksl' ? 'ASL' : 'KSL'}
+        </ThemedText>
+      </Pressable>
+    </Screen>
   );
 }
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
+  header: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' },
+  streak: { paddingVertical: Spacing.one, paddingHorizontal: Spacing.three, borderRadius: 999 },
+  streakText: { fontWeight: 700 },
+  todayCard: { padding: Spacing.four, borderRadius: 24, gap: Spacing.two },
+  section: { marginTop: Spacing.three },
+  row: {
     flexDirection: 'row',
-  },
-  safeArea: {
-    flex: 1,
-    paddingHorizontal: Spacing.four,
+    justifyContent: 'space-between',
     alignItems: 'center',
-    gap: Spacing.three,
-    paddingBottom: BottomTabInset + Spacing.three,
-    maxWidth: MaxContentWidth,
+    padding: Spacing.three,
+    borderRadius: 16,
   },
-  heroSection: {
-    alignItems: 'center',
-    justifyContent: 'center',
-    flex: 1,
-    paddingHorizontal: Spacing.four,
-    gap: Spacing.four,
-  },
-  title: {
-    textAlign: 'center',
-  },
-  code: {
-    textTransform: 'uppercase',
-  },
-  stepContainer: {
-    gap: Spacing.three,
-    alignSelf: 'stretch',
-    paddingHorizontal: Spacing.three,
-    paddingVertical: Spacing.four,
-    borderRadius: Spacing.four,
-  },
+  rowTitle: { fontWeight: 600 },
+  switch: { alignSelf: 'center', padding: Spacing.three },
 });

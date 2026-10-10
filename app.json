@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "signday",
+    "name": "Signday",
     "slug": "signday",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -28,11 +28,13 @@
       [
         "expo-splash-screen",
         {
-          "backgroundColor": "#208AEF",
+          "backgroundColor": "#FF7A45",
           "image": "./assets/images/splash-icon.png",
           "imageWidth": 76
         }
-      ]
+      ],
+      "expo-localization",
+      "expo-video"
     ],
     "experiments": {
       "typedRoutes": true,

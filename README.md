@@ -1,56 +1,40 @@
-# Welcome to your Expo app 👋
+# Signday
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+하루 3분, 취미처럼 배우는 수어 앱. 한국수어(KSL) · 미국수어(ASL).
 
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
+## 실행
 
 ```bash
-npm run reset-project
+npm install
+npx expo start
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 구조
 
-### Other setup steps
+```
+src/
+  app/               # Expo Router 화면
+    _layout.tsx      # 온보딩 가드 (언어 미선택 → onboarding)
+    onboarding.tsx   # KSL/ASL 선택
+    index.tsx        # 홈: 스트릭, 오늘의 레슨, 레슨 목록
+    lesson/[id].tsx  # 수어 하나씩 보기
+    quiz/[id].tsx    # 4지선다 퀴즈 → 완료 시 스트릭 갱신
+  components/        # Button, Screen, SignVideo 등
+  data/lessons.ts    # 커리큘럼 (현재 단어만, 영상 없음)
+  store/progress.tsx # 언어·스트릭·완료 레슨 (AsyncStorage)
+  utils/quiz.ts      # 문제 생성
+  i18n.ts            # UI 문자열 ko/en (기기 언어 기준)
+```
 
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
+## 수어 영상 규칙
 
-## Learn more
+- `Sign.videoUrl`이 비어 있으면 "영상 준비 중" 표시.
+- 영상은 라이선스 확인된 출처(예: 국립국어원 한국수어사전, 공공누리 조건 확인)만 사용하고 `credit`에 출처 표기.
+- 농인 원어민/공인 통역사 감수 전에는 배포하지 않음. 수어 동작을 글로 임의 작성하지 않음.
 
-To learn more about developing your project with Expo, look at the following resources:
+## 다음 단계
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- [ ] 수어 영상 확보 + 감수
+- [ ] Supabase 연동 (계정, 진도 동기화)
+- [ ] 레슨 해금 순서, 복습
+- [ ] 마스코트, 알림
