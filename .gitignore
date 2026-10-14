@@ -41,3 +41,6 @@ example
 # generated native folders
 /ios
 /android
+
+# raw API dump from scripts/sync-signs.mjs
+src/data/signs.raw.json

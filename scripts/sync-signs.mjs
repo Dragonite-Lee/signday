@@ -19,6 +19,7 @@ if (!KEY) {
 const ENDPOINT = 'https://api.kcisa.kr/openapi/service/rest/meta13/getCTE01701';
 const PAGE_SIZE = 100;
 const OUT = new URL('../src/data/signs.json', import.meta.url);
+const RAW = new URL('../src/data/signs.raw.json', import.meta.url); // full API dump, gitignored
 
 async function fetchPage(pageNo) {
   // keyword must be present even when empty (provider requirement).
@@ -72,6 +73,9 @@ for (let p = 2; p <= pages; p++) {
   all.push(...items);
   process.stdout.write(`\rpage ${p}/${pages}`);
 }
+
+await writeFile(RAW, JSON.stringify(all, null, 2) + '\n');
+console.log(`\nraw: ${all.length} items → src/data/signs.raw.json`);
 
 const seen = new Set();
 const signs = all
