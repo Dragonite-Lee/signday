@@ -20,11 +20,23 @@ src/
     lesson/[id].tsx  # 수어 하나씩 보기
     quiz/[id].tsx    # 4지선다 퀴즈 → 완료 시 스트릭 갱신
   components/        # Button, Screen, SignVideo 등
-  data/lessons.ts    # 커리큘럼 (현재 단어만, 영상 없음)
+  data/lessons.ts    # signs.json → 레슨 변환 (+ 기본 단어)
   store/progress.tsx # 언어·스트릭·완료 레슨 (AsyncStorage)
   utils/quiz.ts      # 문제 생성
   i18n.ts            # UI 문자열 ko/en (기기 언어 기준)
 ```
+
+## 수어 데이터 (국립국어원 일상생활수어)
+
+KCISA API(`meta13/getCTE01701`)에서 받아 `src/data/signs.json`에 저장 → 앱에 번들. 서비스키는 앱에 들어가지 않음.
+
+```bash
+KCISA_KEY=발급받은키 npm run sync:signs   # api.kcisa.kr 접근 가능한 PC에서
+```
+
+- `signs.json`이 비어 있으면 기본 단어(영상/이미지 없음)로 동작.
+- 분류(`categoryType`)별로 5개씩 묶어 레슨 생성.
+- 수형 이미지(`signImages`)는 탭하면 다음 장, 수형 설명(`signDescription`)·출처 표기 표시.
 
 ## 수어 영상 규칙
 

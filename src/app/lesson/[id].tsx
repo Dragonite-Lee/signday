@@ -52,10 +52,18 @@ export default function LessonScreen() {
       <ThemedText type="title" style={styles.meaning}>
         {sign.meaning[locale]}
       </ThemedText>
-      {locale !== 'en' ? (
+      {sign.meaning.en !== sign.meaning[locale] ? (
         <ThemedText themeColor="textSecondary" style={styles.center}>
           {sign.meaning.en}
         </ThemedText>
+      ) : null}
+      {sign.description ? (
+        <View style={[styles.howTo, { backgroundColor: theme.backgroundElement }]}>
+          <ThemedText type="smallBold" themeColor="textSecondary">
+            {t.howTo}
+          </ThemedText>
+          <ThemedText>{sign.description}</ThemedText>
+        </View>
       ) : null}
     </Screen>
   );
@@ -67,4 +75,5 @@ const styles = StyleSheet.create({
   fill: { height: '100%', borderRadius: 999 },
   meaning: { textAlign: 'center', marginTop: Spacing.three },
   center: { textAlign: 'center' },
+  howTo: { padding: Spacing.three, borderRadius: 16, gap: Spacing.one },
 });

@@ -1,5 +1,7 @@
+import { Image } from 'expo-image';
 import { useVideoPlayer, VideoView } from 'expo-video';
-import { StyleSheet, View } from 'react-native';
+import { useState } from 'react';
+import { Pressable, StyleSheet, View } from 'react-native';
 
 import { ThemedText } from './themed-text';
 import { ThemedView } from './themed-view';
@@ -8,10 +10,16 @@ import { Spacing } from '@/constants/theme';
 import type { Sign } from '@/data/types';
 import { t } from '@/i18n';
 
-/** Looping, muted clip of a sign. Falls back to a placeholder until a reviewed clip exists. */
+/**
+ * Media for one sign: video if licensed, else official handshape images
+ * (tap to step through), else a placeholder. Always shows the credit line.
+ */
 export function SignVideo({ sign }: { sign: Sign }) {
-  if (!sign.videoUrl) {
-    return (
+  let media;
+  if (sign.videoUrl) media = <Player url={sign.videoUrl} />;
+  else if (sign.imageUrls?.length) media = <Images urls={sign.imageUrls} />;
+  else
+    media = (
       <ThemedView type="backgroundElement" style={styles.frame}>
         <ThemedText style={styles.emoji}>🤟</ThemedText>
         <ThemedText type="small" themeColor="textSecondary">
@@ -19,27 +27,42 @@ export function SignVideo({ sign }: { sign: Sign }) {
         </ThemedText>
       </ThemedView>
     );
-  }
-  return <Player url={sign.videoUrl} credit={sign.credit} />;
+
+  return (
+    <View>
+      {media}
+      {sign.credit ? (
+        <ThemedText type="small" themeColor="textSecondary" style={styles.credit}>
+          {t.source}: {sign.credit}
+        </ThemedText>
+      ) : null}
+    </View>
+  );
 }
 
-function Player({ url, credit }: { url: string; credit?: string }) {
+function Images({ urls }: { urls: string[] }) {
+  const [i, setI] = useState(0);
+  return (
+    <Pressable onPress={() => setI((i + 1) % urls.length)} accessibilityRole="imagebutton">
+      <ThemedView type="backgroundElement" style={styles.frame}>
+        <Image source={urls[i]} style={styles.fill} contentFit="contain" transition={150} />
+      </ThemedView>
+      {urls.length > 1 ? (
+        <ThemedText type="small" themeColor="textSecondary" style={styles.dots}>
+          {urls.map((_, k) => (k === i ? '●' : '○')).join(' ')}
+        </ThemedText>
+      ) : null}
+    </Pressable>
+  );
+}
+
+function Player({ url }: { url: string }) {
   const player = useVideoPlayer(url, (p) => {
     p.loop = true;
     p.muted = true;
     p.play();
   });
-
-  return (
-    <View>
-      <VideoView player={player} style={styles.frame} contentFit="cover" nativeControls={false} />
-      {credit ? (
-        <ThemedText type="small" themeColor="textSecondary" style={styles.credit}>
-          {credit}
-        </ThemedText>
-      ) : null}
-    </View>
-  );
+  return <VideoView player={player} style={styles.frame} contentFit="cover" nativeControls={false} />;
 }
 
 const styles = StyleSheet.create({
@@ -52,6 +75,8 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     gap: Spacing.two,
   },
+  fill: { width: '100%', height: '100%' },
   emoji: { fontSize: 64, lineHeight: 76 },
+  dots: { textAlign: 'center', marginTop: Spacing.one, letterSpacing: 2 },
   credit: { marginTop: Spacing.one, fontSize: 11 },
 });
