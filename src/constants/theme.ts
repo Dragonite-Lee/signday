@@ -18,6 +18,8 @@ export const Colors = {
     onPrimary: '#ffffff',
     success: '#2BB673',
     danger: '#E5484D',
+    successSoft: '#E3F7EC',
+    dangerSoft: '#FDE8E8',
   },
   dark: {
     text: '#ffffff',
@@ -29,6 +31,8 @@ export const Colors = {
     onPrimary: '#1A0E08',
     success: '#3DD68C',
     danger: '#FF6369',
+    successSoft: '#11301F',
+    dangerSoft: '#3B1617',
   },
 } as const;
 

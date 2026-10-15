@@ -8,9 +8,11 @@ import { useTheme } from '@/hooks/use-theme';
 type Props = PressableProps & {
   label: string;
   variant?: 'primary' | 'secondary';
+  /** Overrides the primary fill, e.g. quiz feedback. */
+  tone?: 'success' | 'danger';
 };
 
-export function Button({ label, variant = 'primary', disabled, style, ...rest }: Props) {
+export function Button({ label, variant = 'primary', tone, disabled, style, ...rest }: Props) {
   const theme = useTheme();
   const primary = variant === 'primary';
 
@@ -20,13 +22,13 @@ export function Button({ label, variant = 'primary', disabled, style, ...rest }:
       disabled={disabled}
       style={(state) => [
         styles.base,
-        { backgroundColor: primary ? theme.primary : theme.backgroundElement },
+        { backgroundColor: tone ? theme[tone] : primary ? theme.primary : theme.backgroundElement },
         disabled && styles.disabled,
         state.pressed && styles.pressed,
         typeof style === 'function' ? style(state) : style,
       ]}
       {...rest}>
-      <ThemedText style={[styles.label, { color: primary ? theme.onPrimary : theme.text }]}>{label}</ThemedText>
+      <ThemedText style={[styles.label, { color: primary || tone ? theme.onPrimary : theme.text }]}>{label}</ThemedText>
     </Pressable>
   );
 }
