@@ -32,6 +32,7 @@ KCISA API(`meta13/getCTE01701`)에서 받아 `src/data/signs.json`에 저장 →
 
 ```bash
 KCISA_KEY=발급받은키 npm run sync:signs   # api.kcisa.kr 접근 가능한 PC에서
+node scripts/sync-signs.mjs ~/Downloads/signs-raw-*.json   # 또는 브라우저로 받은 원본에서
 ```
 
 - `signs.json`이 비어 있으면 기본 단어(영상/이미지 없음)로 동작.

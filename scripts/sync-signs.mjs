@@ -4,15 +4,18 @@
  *
  * Usage (run on a machine that can reach api.kcisa.kr):
  *   KCISA_KEY=발급받은서비스키 node scripts/sync-signs.mjs
+ * Or from raw dumps (arrays of <item> objects) saved elsewhere, e.g. via a browser:
+ *   node scripts/sync-signs.mjs ~/Downloads/signs-raw-*.json
  *
  * The key is only used here; the app ships the generated JSON, never the key.
  * Source data is updated yearly, so re-run occasionally and commit the diff.
  */
-import { writeFile } from 'node:fs/promises';
+import { readFile, writeFile } from 'node:fs/promises';
 
+const FILES = process.argv.slice(2);
 const KEY = process.env.KCISA_KEY;
-if (!KEY) {
-  console.error('KCISA_KEY env var is required');
+if (!KEY && !FILES.length) {
+  console.error('Set KCISA_KEY, or pass raw dump files as arguments');
   process.exit(1);
 }
 
@@ -87,24 +90,36 @@ function toSign(item, index) {
   };
 }
 
-const first = await fetchPage(1);
-const pages = Math.max(1, Math.ceil(first.total / PAGE_SIZE));
-const all = [...first.items];
-for (let p = 2; p <= pages; p++) {
-  const { items } = await fetchPage(p);
-  all.push(...items);
-  process.stdout.write(`\rpage ${p}/${pages}`);
+let all = [];
+let total = 0;
+if (FILES.length) {
+  for (const f of FILES) all.push(...JSON.parse(await readFile(f, 'utf8')));
+  total = all.length;
+} else {
+  const first = await fetchPage(1);
+  total = first.total;
+  const pages = Math.max(1, Math.ceil(total / PAGE_SIZE));
+  all = [...first.items];
+  for (let p = 2; p <= pages; p++) {
+    const { items } = await fetchPage(p);
+    all.push(...items);
+    process.stdout.write(`\rpage ${p}/${pages}`);
+  }
 }
 
 await writeFile(RAW, JSON.stringify(all, null, 2) + '\n');
 console.log(`\nraw: ${all.length} items → src/data/signs.raw.json`);
 
-const seen = new Set();
-const signs = all
-  .map(toSign)
-  .filter((s) => s.title && (s.videoUrl || s.imageUrls.length || s.description))
-  .filter((s) => (seen.has(s.id) ? false : (seen.add(s.id), true)));
+// Several words can share one sign (e.g. 썰매/스키): merge their titles instead of dropping.
+const byId = new Map();
+for (const s of all.map(toSign)) {
+  if (!s.title || !(s.videoUrl || s.imageUrls.length || s.description)) continue;
+  const prev = byId.get(s.id);
+  if (!prev) byId.set(s.id, s);
+  else if (!prev.title.split(',').includes(s.title)) prev.title += `,${s.title}`;
+}
+const signs = [...byId.values()];
 
 await writeFile(OUT, JSON.stringify({ syncedAt: new Date().toISOString(), signs }, null, 2) + '\n');
-console.log(`\n${signs.length} signs (of ${first.total}) → src/data/signs.json`);
-if (!signs.length) console.log('Raw first item for debugging:', JSON.stringify(first.items[0], null, 2));
+console.log(`\n${signs.length} signs (of ${total}) → src/data/signs.json`);
+if (!signs.length) console.log('Raw first item for debugging:', JSON.stringify(all[0], null, 2));
