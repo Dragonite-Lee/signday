@@ -45,7 +45,7 @@ function Images({ urls }: { urls: string[] }) {
   return (
     <Pressable onPress={() => setI((i + 1) % urls.length)} accessibilityRole="imagebutton">
       <ThemedView type="backgroundElement" style={styles.frame}>
-        <Image source={urls[i]} style={styles.fill} contentFit="contain" transition={150} />
+        <Image source={urls[i]} style={styles.fill} contentFit="cover" transition={150} />
       </ThemedView>
       {urls.length > 1 ? (
         <ThemedText type="small" themeColor="textSecondary" style={styles.dots}>
@@ -64,15 +64,18 @@ function Player({ url }: { url: string }) {
   });
   return (
     <ThemedView type="backgroundElement" style={styles.frame}>
-      <VideoView player={player} style={styles.fill} contentFit="contain" nativeControls={false} />
+      <VideoView player={player} style={styles.fill} contentFit="cover" nativeControls={false} />
     </ThemedView>
   );
 }
 
+/** 국립국어원 clips and handshape images are 700×466. */
+const MEDIA_RATIO = 700 / 466;
+
 const styles = StyleSheet.create({
   frame: {
     width: '100%',
-    aspectRatio: 1,
+    aspectRatio: MEDIA_RATIO,
     borderRadius: 24,
     overflow: 'hidden',
     alignItems: 'center',
