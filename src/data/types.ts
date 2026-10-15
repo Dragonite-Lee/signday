@@ -29,6 +29,8 @@ export type SyncedSign = {
   title: string;
   category: string;
   description: string;
+  videoUrl: string;
+  thumbnailUrl: string;
   imageUrls: string[];
   sourceUrl: string;
   credit: string;

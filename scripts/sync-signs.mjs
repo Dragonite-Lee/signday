@@ -27,12 +27,8 @@ async function fetchPage(pageNo) {
   const res = await fetch(url, { headers: { Accept: 'application/json' } });
   const text = await res.text();
   if (!res.ok) throw new Error(`HTTP ${res.status}: ${text.slice(0, 300)}`);
-  let json;
-  try {
-    json = JSON.parse(text);
-  } catch {
-    throw new Error(`Expected JSON, got: ${text.slice(0, 300)}`);
-  }
+  // The API usually answers XML regardless of Accept; handle both.
+  const json = text.trimStart().startsWith('<') ? parseXml(text) : JSON.parse(text);
   const body = json?.response?.body ?? json?.body;
   const header = json?.response?.header ?? json?.header;
   if (header?.resultCode && header.resultCode !== '0000' && header.resultCode !== '00') {
@@ -41,6 +37,30 @@ async function fetchPage(pageNo) {
   let items = body?.items?.item ?? [];
   if (!Array.isArray(items)) items = [items];
   return { items, total: Number(body?.totalCount ?? 0) };
+}
+
+/** Minimal parser for the flat <response><header/><body><items><item>…</item></items></body> shape. */
+function parseXml(xml) {
+  const decode = (s) =>
+    s
+      .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
+      .replace(/&lt;/g, '<')
+      .replace(/&gt;/g, '>')
+      .replace(/&quot;/g, '"')
+      .replace(/&#39;/g, "'")
+      .replace(/&amp;/g, '&');
+  const tag = (src, name) => src.match(new RegExp(`<${name}>([\\s\\S]*?)</${name}>`))?.[1];
+  const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].map(([, inner]) => {
+    const o = {};
+    for (const [, k, v] of inner.matchAll(/<(\w+)>([\s\S]*?)<\/\1>/g)) o[k] = decode(v);
+    return o;
+  });
+  return {
+    response: {
+      header: { resultCode: tag(xml, 'resultCode'), resultMsg: tag(xml, 'resultMsg') },
+      body: { totalCount: tag(xml, 'totalCount'), items: { item: items } },
+    },
+  };
 }
 
 const clean = (v) => (typeof v === 'string' ? v.replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim() : '');
@@ -52,16 +72,18 @@ function toSign(item, index) {
     .map((s) => s.trim())
     .filter((s) => /^https?:\/\//.test(s));
   const thumb = clean(item.referenceIdentifier);
+  // subDescription carries the sign video (mp4) from 국립국어원 한국수어사전.
+  const video = clean(item.subDescription);
   return {
     id: `ksl-${clean(item.url).split(/[=/]/).pop() || index}`,
     title,
     category: clean(item.categoryType) || '기타',
     description: clean(item.signDescription),
-    imageUrls: images.length ? images : /^https?:\/\//.test(thumb) ? [thumb] : [],
+    videoUrl: /\.mp4($|\?)/i.test(video) ? video : '',
+    thumbnailUrl: /^https?:\/\//.test(thumb) ? thumb : '',
+    imageUrls: images,
     sourceUrl: clean(item.url),
-    credit: [clean(item.creator) || '국립국어원', clean(item.copyrightOthers) || clean(item.rights)]
-      .filter(Boolean)
-      .join(' · '),
+    credit: ['국립국어원 한국수어사전', clean(item.copyrightOthers) || clean(item.rights)].filter(Boolean).join(' · '),
   };
 }
 
@@ -80,7 +102,7 @@ console.log(`\nraw: ${all.length} items → src/data/signs.raw.json`);
 const seen = new Set();
 const signs = all
   .map(toSign)
-  .filter((s) => s.title && (s.imageUrls.length || s.description))
+  .filter((s) => s.title && (s.videoUrl || s.imageUrls.length || s.description))
   .filter((s) => (seen.has(s.id) ? false : (seen.add(s.id), true)));
 
 await writeFile(OUT, JSON.stringify({ syncedAt: new Date().toISOString(), signs }, null, 2) + '\n');

@@ -74,6 +74,7 @@ export function lessonsFromSynced(signs: SyncedSign[]): Lesson[] {
         signs: chunk.map<Sign>((s) => ({
           id: s.id,
           meaning: { ko: s.title, en: s.title },
+          videoUrl: s.videoUrl || undefined,
           imageUrls: s.imageUrls,
           description: s.description,
           sourceUrl: s.sourceUrl,
