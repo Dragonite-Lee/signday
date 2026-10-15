@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-15T06:21:10.197Z",
+  "syncedAt": "2026-10-15T09:26:51.338Z",
   "units": [
     {
       "id": "greetings",
@@ -18,13 +18,13 @@
             "안녕",
             "안부"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200821/733655/MOV000256297_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200821/733655/MOV000256297_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200821/733655/MOV000256297_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200821/733655/MOV000256297_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151226/235171/IMG000230296_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151226/235171/IMG000230296_700X466.jpg"
           ],
           "description": "두 주먹을 쥐고 바닥이 아래로 향하게 하여 가슴 앞에서 아래로 내린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=10949",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=10949",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -37,13 +37,13 @@
             "감사",
             "고맙다"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/632085/MOV000243986_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/632085/MOV000243986_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/632085/MOV000243986_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/632085/MOV000243986_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151204/221972/IMG000214002_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151204/221972/IMG000214002_700X466.jpg"
           ],
           "description": "손끝이 밖으로 향하게 펴서 모로 세운 오른손의 4지 옆면을 손바닥이 아래로 향하게 편 왼 손등에 두 번 댄다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=2372",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=2372",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -55,13 +55,13 @@
           "synonyms": [
             "미안"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/735049/MOV000251405_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/735049/MOV000251405_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/735049/MOV000251405_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/735049/MOV000251405_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151219/230511/IMG000224279_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151219/230511/IMG000224279_700X466.jpg"
           ],
           "description": "오른손의 1·5지 끝을 맞대어 동그라미를 만들어 이마에 댔다가 1·5지를 펴며 내린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=10985",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=10985",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -80,13 +80,13 @@
             "즐겁다",
             "즐기다"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191029/632420/MOV000235261_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191029/632420/MOV000235261_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191029/632420/MOV000235261_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191029/632420/MOV000235261_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151116/210874/IMG000201081_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151116/210874/IMG000201081_700X466.jpg"
           ],
           "description": "두 손을 약간 구부려 손끝을 양쪽 가슴에 대고 상하로 엇갈리게 두 번 움직인다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=12464",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=12464",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -99,13 +99,13 @@
             "괜찮다",
             "무방하다"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/630119/MOV000249438_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/630119/MOV000249438_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/630119/MOV000249438_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/630119/MOV000249438_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151216/228644/IMG000221836_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151216/228644/IMG000221836_700X466.jpg"
           ],
           "description": "오른 주먹의 4지를 펴서 끝 바닥을 턱에 가볍게 두 번 댄다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=9466",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=9466",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -121,13 +121,13 @@
             "행사",
             "파티"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/629983/MOV000259307_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/629983/MOV000259307_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/629983/MOV000259307_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/629983/MOV000259307_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151231/238098/IMG000234042_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151231/238098/IMG000234042_700X466.jpg"
           ],
           "description": "손등이 아래로 향하게 가볍게 쥔 두 주먹을 위로 올리며 손가락을 활짝 편다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=9038",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=9038",
           "credit": "국립국어원 한국수어사전"
         }
       ]
@@ -148,13 +148,13 @@
           "synonyms": [
             "예"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/735015/MOV000256167_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/735015/MOV000256167_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/735015/MOV000256167_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/735015/MOV000256167_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151226/234997/IMG000230137_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151226/234997/IMG000230137_700X466.jpg"
           ],
           "description": "오른 주먹의 1·2·4지를 펴서 등이 밖으로 향하게 벌려 1·2지 끝을 오른쪽 눈 옆에 댄다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=9474",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=9474",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -167,13 +167,13 @@
             "아니다",
             "않다"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191101/633271/MOV000260442_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191101/633271/MOV000260442_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191101/633271/MOV000260442_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191101/633271/MOV000260442_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151206/223149/IMG000215306_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151206/223149/IMG000215306_700X466.jpg"
           ],
           "description": "손바닥이 밖으로 향하게 세운 오른손을 좌우로 흔든다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=24036",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=24036",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -185,13 +185,13 @@
           "synonyms": [
             "알다"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191011/626557/MOV000256441_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191011/626557/MOV000256441_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191011/626557/MOV000256441_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191011/626557/MOV000256441_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151227/235307/IMG000230474_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151227/235307/IMG000230474_700X466.jpg"
           ],
           "description": "오른 손바닥으로 가슴을 두 번 쓸어내린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6031",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6031",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -203,13 +203,13 @@
           "synonyms": [
             "모르다"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/632088/MOV000251527_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/632088/MOV000251527_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/632088/MOV000251527_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/632088/MOV000251527_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151219/230650/IMG000224419_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151219/230650/IMG000224419_700X466.jpg"
           ],
           "description": "자연스럽게 편 오른손의 손끝으로 오른쪽 가슴을 두 번 스쳐 올린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11931",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11931",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -222,13 +222,13 @@
             "좋다",
             "선"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/629987/MOV000259382_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/629987/MOV000259382_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/629987/MOV000259382_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/629987/MOV000259382_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151231/238156/IMG000234137_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151231/238156/IMG000234137_700X466.jpg"
           ],
           "description": "오른 주먹을 코에 1·5지 옆면이 닿게 댄다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=9078",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=9078",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -243,13 +243,13 @@
             "거절",
             "난색"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191101/633247/MOV000255247_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191101/633247/MOV000255247_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191101/633247/MOV000255247_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191101/633247/MOV000255247_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151215/228157/IMG000221234_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151215/228157/IMG000221234_700X466.jpg"
           ],
           "description": "오른 주먹의 1·5지를 펴서 약간 구부려 끝을 턱에 댄다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=23960",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=23960",
           "credit": "국립국어원 한국수어사전"
         }
       ]
@@ -272,13 +272,13 @@
             "제",
             "자기"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/631984/MOV000248548_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/631984/MOV000248548_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/631984/MOV000248548_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/631984/MOV000248548_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151214/227729/IMG000220681_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151214/227729/IMG000220681_700X466.jpg"
           ],
           "description": "오른 손바닥을 가슴 중앙에 댄다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11536",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11536",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -291,13 +291,13 @@
             "네",
             "자네"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627265/MOV000251996_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627265/MOV000251996_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627265/MOV000251996_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627265/MOV000251996_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151220/231085/IMG000224999_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151220/231085/IMG000224999_700X466.jpg"
           ],
           "description": "오른 주먹의 1지를 펴서 끝이 밖으로 향하게 하여 약간 내민다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6450",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6450",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -309,14 +309,14 @@
           "synonyms": [
             "저희"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629626/MOV000255025_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629626/MOV000255025_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629626/MOV000255025_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629626/MOV000255025_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151225/234062/IMG000228770_700X466.jpg",
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151225/234063/IMG000228771_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151225/234062/IMG000228770_700X466.jpg",
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151225/234063/IMG000228771_700X466.jpg"
           ],
           "description": "오른 손바닥을 가슴에 댔다가 손등이 위로 향하게 하여 오른쪽으로 한 바퀴 크게 돌린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8265",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8265",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -330,13 +330,13 @@
             "성명",
             "성함"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191015/627715/MOV000256668_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191015/627715/MOV000256668_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191015/627715/MOV000256668_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191015/627715/MOV000256668_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151227/235520/IMG000230742_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151227/235520/IMG000230742_700X466.jpg"
           ],
           "description": "오른 주먹의 1·5지를 펴서 끝이 왼쪽으로 향하게 하여 왼쪽 가슴에 1·5지 옆면이 닿게 댄다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7059",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7059",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -350,13 +350,13 @@
             "벗",
             "우인"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191015/627705/MOV000257451_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191015/627705/MOV000257451_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191015/627705/MOV000257451_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191015/627705/MOV000257451_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151228/236303/IMG000231739_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151228/236303/IMG000231739_700X466.jpg"
           ],
           "description": "두 손을 두 번 맞잡는다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7028",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7028",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -369,13 +369,13 @@
             "누가",
             "뉘"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191010/626184/MOV000252707_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191010/626184/MOV000252707_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191010/626184/MOV000252707_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191010/626184/MOV000252707_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151221/231745/IMG000225862_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151221/231745/IMG000225862_700X466.jpg"
           ],
           "description": "구부린 오른 손가락 등으로 오른뺨을 상하로 두 번 살짝 문지른다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=5394",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=5394",
           "credit": "국립국어원 한국수어사전"
         }
       ]
@@ -398,13 +398,13 @@
             "세대",
             "가구"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20201023/764397/MOV000250034_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20201023/764397/MOV000250034_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20201023/764397/MOV000250034_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20201023/764397/MOV000250034_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151217/229261/IMG000222606_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151217/229261/IMG000222606_700X466.jpg"
           ],
           "description": "두 손의 손끝을 맞대어 좌우로 비스듬히 세운 다음, 왼손은 그대로 두고, 오른손은 주먹을 쥐고 4·5지를 펴서 세워 손목을 좌우로 약간 흔들며 오른쪽으로 약간 이동시킨다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6770",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6770",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -419,13 +419,13 @@
             "부친",
             "아비"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191004/624399/MOV000239769_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191004/624399/MOV000239769_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191004/624399/MOV000239769_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191004/624399/MOV000239769_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151125/216513/IMG000207689_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151125/216513/IMG000207689_700X466.jpg"
           ],
           "description": "오른 주먹의 1지를 펴서 끝을 코 오른쪽에 댔다가 떼며 1지를 접고 5지를 펴서 바닥이 밖으로 향하게 세운다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=2570",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=2570",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -439,13 +439,13 @@
             "어미",
             "엄마"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191004/624375/MOV000254981_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191004/624375/MOV000254981_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191004/624375/MOV000254981_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191004/624375/MOV000254981_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20230404/1133072/PIC000361272_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20230404/1133072/PIC000361272_700X466.jpg"
           ],
           "description": "오른 주먹의 1지를 펴서 끝 바닥을 코 오른쪽에 댔다가 떼며 1지를 접고 4지를 펴서 세운다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8214",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8214",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -457,13 +457,13 @@
           "synonyms": [
             "형님"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190918/615446/MOV000237632_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190918/615446/MOV000237632_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190918/615446/MOV000237632_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190918/615446/MOV000237632_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151121/213686/IMG000204379_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151121/213686/IMG000204379_700X466.jpg"
           ],
           "description": "두 주먹의 2지를 펴서 등이 밖으로 향하게 나란히 세웠다가 오른손을 옆으로 비켜 올린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=1004",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=1004",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -475,13 +475,13 @@
           "synonyms": [
             "누님"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200821/733566/MOV000252709_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200821/733566/MOV000252709_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200821/733566/MOV000252709_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200821/733566/MOV000252709_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151221/231746/IMG000225864_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151221/231746/IMG000225864_700X466.jpg"
           ],
           "description": "왼 주먹의 2지와 오른 주먹의 4지를 펴서 나란히 세웠다가 오른손만 약간 위로 올린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=5395",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=5395",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -493,13 +493,13 @@
           "synonyms": [
             "남동생"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/734925/MOV000250491_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/734925/MOV000250491_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/734925/MOV000250491_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/734925/MOV000250491_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151217/229697/IMG000223183_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151217/229697/IMG000223183_700X466.jpg"
           ],
           "description": "2지를 펴서 등이 밖으로 향하게 세운 오른 주먹을 아래로 내린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6903",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6903",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -511,13 +511,13 @@
           "synonyms": [
             "조모"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630754/MOV000236360_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630754/MOV000236360_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630754/MOV000236360_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630754/MOV000236360_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151118/212004/IMG000202537_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151118/212004/IMG000202537_700X466.jpg"
           ],
           "description": "손등이 밖으로 손끝이 왼쪽으로 향하게 편 오른손을 이마 왼쪽에서 오른쪽으로 이동시킨 다음, 주먹을 쥐고 4지를 펴서 등이 밖으로 향하게 세운다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=10284",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=10284",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -529,13 +529,13 @@
           "synonyms": [
             "조부"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191001/623707/MOV000236366_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191001/623707/MOV000236366_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191001/623707/MOV000236366_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191001/623707/MOV000236366_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151118/212079/IMG000202543_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151118/212079/IMG000202543_700X466.jpg"
           ],
           "description": "손등이 밖으로 손끝이 왼쪽으로 향하게 편 오른손을 이마 왼쪽에서 오른쪽으로 이동시킨 다음, 5지를 펴서 바닥이 밖으로 향하게 세운다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=1392",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=1392",
           "credit": "국립국어원 한국수어사전"
         }
       ]
@@ -556,13 +556,13 @@
           "synonyms": [
             "기쁨"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20221021/1043086/MOV000361062_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20221021/1043086/MOV000361062_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20221021/1043086/MOV000361062_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20221021/1043086/MOV000361062_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151204/221559/IMG000213513_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151204/221559/IMG000213513_700X466.jpg"
           ],
           "description": "두 주먹의 1·5지를 펴고 손등이 밖으로 향하게 하여 1지 끝을 양쪽 가슴 앞에 대고 상하로 두 번 엇갈리게 움직인다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=3874",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=3874",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -576,14 +576,14 @@
             "슬퍼하다",
             "설움"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628057/MOV000256235_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628057/MOV000256235_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628057/MOV000256235_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628057/MOV000256235_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151226/235127/IMG000230221_700X466.jpg",
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151226/235128/IMG000230222_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151226/235127/IMG000230221_700X466.jpg",
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151226/235128/IMG000230222_700X466.jpg"
           ],
           "description": "오른 주먹의 1·5지를 펴서 끝을 맞대어 오른쪽 눈 밑에 댔다가 내린 다음, 손가락을 펴서 구부려 가슴에 대고 왼쪽으로 돌린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7240",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7240",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -600,13 +600,13 @@
             "성내다",
             "화내다"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190918/615455/MOV000237775_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190918/615455/MOV000237775_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190918/615455/MOV000237775_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190918/615455/MOV000237775_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151121/213772/IMG000204560_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151121/213772/IMG000204560_700X466.jpg"
           ],
           "description": "오른 주먹의 5지를 펴서 세워 배에서 위로 약간 힘주어 올린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=1086",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=1086",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -618,13 +618,13 @@
           "synonyms": [
             "-애"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629620/MOV000253928_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629620/MOV000253928_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629620/MOV000253928_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629620/MOV000253928_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151223/232946/IMG000227380_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151223/232946/IMG000227380_700X466.jpg"
           ],
           "description": "5지 바닥을 1지 옆면에 대고 손등이 왼쪽으로 향하게 모로 세운 왼 주먹 위에 오른 손바닥을 대고 오른손만 오른쪽으로 돌린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8240",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8240",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -636,13 +636,13 @@
           "synonyms": [
             "복"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630748/MOV000237400_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630748/MOV000237400_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630748/MOV000237400_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630748/MOV000237400_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151120/213423/IMG000204081_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151120/213423/IMG000204081_700X466.jpg"
           ],
           "description": "오른손의 1·2·3·4지 바닥을 왼쪽 볼에 5지 바닥을 오른쪽 볼에 댔다가 내리며 손가락을 모아 붙인다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=10223",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=10223",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -659,13 +659,13 @@
             "우수",
             "괴롭다"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191007/625140/MOV000249112_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191007/625140/MOV000249112_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191007/625140/MOV000249112_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191007/625140/MOV000249112_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151215/228296/IMG000221413_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151215/228296/IMG000221413_700X466.jpg"
           ],
           "description": "약간 구부린 오른 손끝을 가슴에 대고 왼쪽으로 한 바퀴 돌린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=4765",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=4765",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -680,13 +680,13 @@
             "두려워하다",
             "두렵다"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630992/MOV000252416_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630992/MOV000252416_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630992/MOV000252416_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630992/MOV000252416_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151220/231468/IMG000225491_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151220/231468/IMG000225491_700X466.jpg"
           ],
           "description": "두 손의 5지 끝을 몸 중앙의 위와 아래에 대고 손가락을 흔든다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=10967",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=10967",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -699,13 +699,13 @@
             "피곤",
             "피로"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200819/731444/MOV000250100_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200819/731444/MOV000250100_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200819/731444/MOV000250100_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200819/731444/MOV000250100_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20201208/783908/IMG000356816_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20201208/783908/IMG000356816_700X466.jpg"
           ],
           "description": "두 손바닥을 양쪽 가슴에 댔다가 힘없이 밑으로 내린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=12438",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=12438",
           "credit": "국립국어원 한국수어사전"
         }
       ]
@@ -727,13 +727,13 @@
             "일",
             "한번"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009715/MOV000360025_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009715/MOV000360025_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009715/MOV000360025_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009715/MOV000360025_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151210/225407/IMG000218038_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151210/225407/IMG000218038_700X466.jpg"
           ],
           "description": "오른 주먹의 1지를 펴서 바닥이 밖으로 향하게 세운다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=12573",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=12573",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -745,13 +745,13 @@
           "synonyms": [
             "이"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009765/MOV000360062_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009765/MOV000360062_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009765/MOV000360062_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009765/MOV000360062_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151128/217930/IMG000209340_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151128/217930/IMG000209340_700X466.jpg"
           ],
           "description": "오른 주먹의 1·2지를 벌려 펴서 끝이 왼쪽으로 등이 밖으로 향하게 한다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=23851",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=23851",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -763,13 +763,13 @@
           "synonyms": [
             "삼"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009785/MOV000360082_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009785/MOV000360082_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009785/MOV000360082_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009785/MOV000360082_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151208/223810/IMG000216205_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151208/223810/IMG000216205_700X466.jpg"
           ],
           "description": "오른 주먹의 1·2·3지를 펴서 끝이 왼쪽으로, 등이 밖으로 향하게 한다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=24029",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=24029",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -781,13 +781,13 @@
           "synonyms": [
             "사"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009763/MOV000360060_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009763/MOV000360060_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009763/MOV000360060_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009763/MOV000360060_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151129/218536/IMG000210061_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151129/218536/IMG000210061_700X466.jpg"
           ],
           "description": "5지를 접고 1·2·3·4지를 벌려 끝이 왼쪽으로, 등이 밖으로 향하게 한다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=23841",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=23841",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -799,13 +799,13 @@
           "synonyms": [
             "오"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220802/1005874/MOV000359876_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220802/1005874/MOV000359876_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220802/1005874/MOV000359876_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220802/1005874/MOV000359876_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151127/217411/IMG000208737_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151127/217411/IMG000208737_700X466.jpg"
           ],
           "description": "손등이 안으로 향하게 쥔 오른 주먹의 5지를 펴서 눕힌다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11055",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11055",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -817,13 +817,13 @@
           "synonyms": [
             "육"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009786/MOV000360083_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009786/MOV000360083_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009786/MOV000360083_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009786/MOV000360083_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151226/234938/IMG000229999_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151226/234938/IMG000229999_700X466.jpg"
           ],
           "description": "오른 주먹의 1·5지를 펴서 등이 밖으로 향하게 모로 세운다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=12841",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=12841",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -835,13 +835,13 @@
           "synonyms": [
             "칠"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009775/MOV000360072_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009775/MOV000360072_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009775/MOV000360072_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009775/MOV000360072_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151206/222760/IMG000214931_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151206/222760/IMG000214931_700X466.jpg"
           ],
           "description": "오른 주먹의 1·2·5지를 펴서 벌려 등이 밖으로 향하게 모로 세운다",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=12674",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=12674",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -853,13 +853,13 @@
           "synonyms": [
             "팔"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009769/MOV000360066_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009769/MOV000360066_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009769/MOV000360066_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009769/MOV000360066_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151207/223237/IMG000215495_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151207/223237/IMG000215495_700X466.jpg"
           ],
           "description": "오른손을, 4지를 접고 나머지 손가락을 벌려 손등이 밖으로 향하게 비스듬히 세운다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11419",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11419",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -871,13 +871,13 @@
           "synonyms": [
             "구"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009766/MOV000360063_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009766/MOV000360063_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009766/MOV000360063_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009766/MOV000360063_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151210/225170/IMG000217770_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151210/225170/IMG000217770_700X466.jpg"
           ],
           "description": "오른손을 펴서 손바닥이 안으로 향하게 비스듬히 세운다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11315",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11315",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -887,14 +887,14 @@
             "en": "Ten"
           },
           "synonyms": [],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628351/MOV000255872_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628351/MOV000255872_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628351/MOV000255872_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628351/MOV000255872_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151226/234787/IMG000229791_700X466.jpg",
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151226/234788/IMG000229792_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151226/234787/IMG000229791_700X466.jpg",
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151226/234788/IMG000229792_700X466.jpg"
           ],
           "description": "오른 손바닥을 이마에 댔다가 떼어 왼 손바닥에 댔다가 빠르게 뗀다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7828",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7828",
           "credit": "국립국어원 한국수어사전"
         }
       ]
@@ -918,13 +918,13 @@
             "오늘날",
             "현재"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628278/MOV000256336_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628278/MOV000256336_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628278/MOV000256336_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628278/MOV000256336_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151227/235200/IMG000230344_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151227/235200/IMG000230344_700X466.jpg"
           ],
           "description": "두 손을 펴서 손등이 위로 손끝이 밖으로 향하게 하여 가슴 앞에서 약간 아래로 내린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7703",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7703",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -936,13 +936,13 @@
           "synonyms": [
             "명일"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627261/MOV000251976_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627261/MOV000251976_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627261/MOV000251976_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627261/MOV000251976_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151220/231070/IMG000224974_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151220/231070/IMG000224974_700X466.jpg"
           ],
           "description": "오른 주먹의 1지를 펴서 바닥이 밖으로 향하게 세워 오른쪽 눈 옆에 댔다가 밖으로 내민다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6442",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6442",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -955,13 +955,13 @@
             "어저께",
             "작일"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629532/MOV000254995_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629532/MOV000254995_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629532/MOV000254995_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629532/MOV000254995_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151225/234038/IMG000228731_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151225/234038/IMG000228731_700X466.jpg"
           ],
           "description": "오른 주먹의 1지를 펴서 세워 오른쪽 어깨 너머로 넘긴다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8218",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8218",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -975,13 +975,13 @@
             "동",
             "(해가)돋다"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191015/627813/MOV000239897_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191015/627813/MOV000239897_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191015/627813/MOV000239897_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191015/627813/MOV000239897_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20221229/1078375/IMG000361265_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20221229/1078375/IMG000361265_700X466.jpg"
           ],
           "description": "왼손을 손등이 위로 손끝이 오른쪽으로 향하게 하고, 그 밑에서 오른손의 1‧5지 끝을 맞대어 동그라미를 만들어 왼손 안에서 밖으로 약간 올린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=2231",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=2231",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -993,13 +993,13 @@
           "synonyms": [
             "일석"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/632061/MOV000259343_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/632061/MOV000259343_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/632061/MOV000259343_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/632061/MOV000259343_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151231/238124/IMG000234086_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151231/238124/IMG000234086_700X466.jpg"
           ],
           "description": "오른 주먹의 1·5지를 펴서 가슴 중앙에서 손을 뒤집으며 오른쪽으로 살짝 내린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11849",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11849",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1015,13 +1015,13 @@
             "깜깜하다",
             "캄캄하다"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628064/MOV000241223_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628064/MOV000241223_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628064/MOV000241223_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628064/MOV000241223_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151128/218319/IMG000209816_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151128/218319/IMG000209816_700X466.jpg"
           ],
           "description": "손바닥이 밖으로 향하게 세운 두 손을 중앙으로 모아 교차시킨다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11241",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11241",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1033,13 +1033,13 @@
           "synonyms": [
             "한 시간"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009784/MOV000360081_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009784/MOV000360081_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009784/MOV000360081_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20220811/1009784/MOV000360081_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151209/224951/IMG000217530_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151209/224951/IMG000217530_700X466.jpg"
           ],
           "description": "손등이 위로 향하게 쥔 왼 주먹의 손목등에 오른 주먹의 1지를 펴서 모로 세워 댔다가 시계 바늘이 도는 방향으로 한 바퀴 돌려 다시 댄다(한 시간을 나타내는 경우).",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=24028",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=24028",
           "credit": "국립국어원 한국수어사전"
         }
       ]
@@ -1058,13 +1058,13 @@
             "en": "Monday"
           },
           "synonyms": [],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200820/732401/MOV000255612_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200820/732401/MOV000255612_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200820/732401/MOV000255612_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200820/732401/MOV000255612_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20210112/798006/IMG000358148_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20210112/798006/IMG000358148_700X466.jpg"
           ],
           "description": "오른 주먹의 1·5지를 펴서 5지 끝을 턱 중앙에 대고 1지만으로 반원을 그리며 왼쪽으로 두 번 뻗는다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8230",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8230",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1074,13 +1074,13 @@
             "en": "Tuesday"
           },
           "synonyms": [],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200820/731860/MOV000237316_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200820/731860/MOV000237316_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200820/731860/MOV000237316_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200820/731860/MOV000237316_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20210203/808891/IMG000358358_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20210203/808891/IMG000358358_700X466.jpg"
           ],
           "description": "오른손의 2지 끝을 턱 아래에 대고 두 번 튕긴다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=969",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=969",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1090,13 +1090,13 @@
             "en": "Wednesday"
           },
           "synonyms": [],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20211216/915901/MOV000359349_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20211216/915901/MOV000359349_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20211216/915901/MOV000359349_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20211216/915901/MOV000359349_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20250325/1432570/PIC000361465_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20250325/1432570/PIC000361465_700X466.jpg"
           ],
           "description": "오른 주먹의 1·5지를 펴서 구부려 턱을 가볍게 두드린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6109",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6109",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1109,13 +1109,13 @@
             "나무",
             "수목"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20211216/915902/MOV000359350_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20211216/915902/MOV000359350_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20211216/915902/MOV000359350_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20211216/915902/MOV000359350_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151219/230930/IMG000224787_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151219/230930/IMG000224787_700X466.jpg"
           ],
           "description": "두 주먹의 1·5지를 펴서 1지를 상하로 엇갈리게 두 번 부딪친다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6127",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6127",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1125,13 +1125,13 @@
             "en": "Friday"
           },
           "synonyms": [],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20201211/785463/MOV000357119_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20201211/785463/MOV000357119_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20201211/785463/MOV000357119_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20201211/785463/MOV000357119_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20201209/784230/IMG000356871_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20201209/784230/IMG000356871_700X466.jpg"
           ],
           "description": "양손을 벌려 턱 양쪽에 댔다가 내리면서, 두 손의 1·5지 끝을 맞대어 동그라미를 만든다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7585",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7585",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1141,13 +1141,13 @@
             "en": "Saturday"
           },
           "synonyms": [],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200819/731426/MOV000234691_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200819/731426/MOV000234691_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200819/731426/MOV000234691_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200819/731426/MOV000234691_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20210203/808848/IMG000358316_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20210203/808848/IMG000358316_700X466.jpg"
           ],
           "description": "두 손 각각 턱 가까이에서 손끝을 맞대고 비빈다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=10531",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=10531",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1159,14 +1159,14 @@
           "synonyms": [
             "주일"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200820/732410/MOV000255051_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200820/732410/MOV000255051_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200820/732410/MOV000255051_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200820/732410/MOV000255051_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151224/233980/IMG000228800_700X466.jpg",
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151224/233981/IMG000228801_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151224/233980/IMG000228800_700X466.jpg",
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151224/233981/IMG000228801_700X466.jpg"
           ],
           "description": "오른 주먹의 1지를 펴서 옆면으로 입술 밑을 오른쪽으로 스쳐 내고, 손끝이 밖으로 손등이 위로 향하게 편 두 손을 양 옆에서 중앙으로 이동시켜 맞댄다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8300",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8300",
           "credit": "국립국어원 한국수어사전"
         }
       ]
@@ -1185,13 +1185,13 @@
             "en": "Water"
           },
           "synonyms": [],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/631859/MOV000250834_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/631859/MOV000250834_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/631859/MOV000250834_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/631859/MOV000250834_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151218/230033/IMG000223602_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151218/230033/IMG000223602_700X466.jpg"
           ],
           "description": "오른 주먹의 1·5지를 펴서 구부려 입으로 약간 기울여 올린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=10981",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=10981",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1201,14 +1201,14 @@
             "en": "Coffee"
           },
           "synonyms": [],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629529/MOV000257758_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629529/MOV000257758_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629529/MOV000257758_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629529/MOV000257758_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151229/236582/IMG000232112_700X466.jpg",
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151229/236583/IMG000232113_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151229/236582/IMG000232112_700X466.jpg",
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151229/236583/IMG000232113_700X466.jpg"
           ],
           "description": "오른 주먹의 1지를 펴서 끝 바닥을 코에 댄 다음, 그 끝을 둥굴게 구부려 모로 세운 왼손 안에 넣어 돌린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8198",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8198",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1218,13 +1218,13 @@
             "en": "Bread"
           },
           "synonyms": [],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627313/MOV000253637_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627313/MOV000253637_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627313/MOV000253637_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627313/MOV000253637_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151222/232647/IMG000227024_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151222/232647/IMG000227024_700X466.jpg"
           ],
           "description": "손바닥이 위로 향하게 편 왼 손바닥에, 오른손을 오므려 끝을 댔다가 위로 올리며 손가락을 벌린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6480",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6480",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1236,14 +1236,14 @@
           "synonyms": [
             "과실"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191017/628475/MOV000249146_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191017/628475/MOV000249146_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191017/628475/MOV000249146_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191017/628475/MOV000249146_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151215/228353/IMG000221458_700X466.jpg",
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151215/228354/IMG000221459_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151215/228353/IMG000221458_700X466.jpg",
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151215/228354/IMG000221459_700X466.jpg"
           ],
           "description": "오른 손바닥으로 왼 주먹을 한 번 감싸 돌린 다음, 오른 주먹의 1·5지를 펴서 1지 끝이 밖으로 향하게 모로 세워 손목을 좌우로 흔들며 오른쪽으로 이동시킨다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=5943",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=5943",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1253,14 +1253,14 @@
             "en": "Ramen"
           },
           "synonyms": [],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628210/MOV000251513_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628210/MOV000251513_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628210/MOV000251513_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628210/MOV000251513_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151219/230641/IMG000224403_700X466.jpg",
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151219/230642/IMG000224404_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151219/230641/IMG000224403_700X466.jpg",
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151219/230642/IMG000224404_700X466.jpg"
           ],
           "description": "자연스럽게 편 오른손의 5지 끝을 이마 중앙에 대고 좌우로 흔든 다음, 두 주먹의 1·2지를 펴서 입으로 돌려 올리는 동작을 동시에 두 번 반복한다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7495",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7495",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1270,14 +1270,14 @@
             "en": "Kimchi"
           },
           "synonyms": [],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/632051/MOV000250032_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/632051/MOV000250032_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/632051/MOV000250032_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/632051/MOV000250032_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151217/229259/IMG000222603_700X466.jpg",
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151217/229260/IMG000222604_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151217/229259/IMG000222603_700X466.jpg",
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151217/229260/IMG000222604_700X466.jpg"
           ],
           "description": "오른 손바닥으로 오른쪽 뺨을 스쳐 내린 다음, 두 손을 약간 구부려 세워 위로 올리며 왼 손끝이 아래에, 오른 손끝이 위에 놓이게 포갠다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11800",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11800",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1290,13 +1290,13 @@
             "가죽",
             "살"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191011/626539/MOV000250094_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191011/626539/MOV000250094_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191011/626539/MOV000250094_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191011/626539/MOV000250094_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151217/229306/IMG000222681_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151217/229306/IMG000222681_700X466.jpg"
           ],
           "description": "오른손의 1·5지로 왼 손등을 살짝 잡는다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=5946",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=5946",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1309,13 +1309,13 @@
             "젖",
             "유방"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/630162/MOV000258646_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/630162/MOV000258646_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/630162/MOV000258646_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/630162/MOV000258646_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20250327/1432890/PIC000361466_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20250327/1432890/PIC000361466_700X466.jpg"
           ],
           "description": "오른손을 펴서 오른쪽 가슴에 대고 두 번 구부렸다 편다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=9694",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=9694",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1328,13 +1328,13 @@
             "맛나다",
             "맛"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627269/MOV000252525_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627269/MOV000252525_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627269/MOV000252525_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627269/MOV000252525_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151220/231569/IMG000225623_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151220/231569/IMG000225623_700X466.jpg"
           ],
           "description": "오른 주먹의 1·5지 옆면을 턱 왼쪽에 댔다가 오른쪽으로 이동시킨다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6456",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6456",
           "credit": "국립국어원 한국수어사전"
         }
       ]
@@ -1359,13 +1359,13 @@
             "호",
             "댁"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629673/MOV000258856_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629673/MOV000258856_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629673/MOV000258856_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629673/MOV000258856_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151231/237732/IMG000233490_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151231/237732/IMG000233490_700X466.jpg"
           ],
           "description": "두 손의 손끝을 맞대어 좌우로 비스듬히 세운다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8410",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8410",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1375,13 +1375,13 @@
             "en": "School"
           },
           "synonyms": [],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191001/623672/MOV000236222_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191001/623672/MOV000236222_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191001/623672/MOV000236222_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191001/623672/MOV000236222_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151118/211901/IMG000202352_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151118/211901/IMG000202352_700X466.jpg"
           ],
           "description": "두 손을 펴서 손끝이 위로 손등이 밖으로 향하게 얼굴 앞에 세워 한 번 당긴다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=1352",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=1352",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1394,13 +1394,13 @@
             "기업",
             "사"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191004/624386/MOV000241089_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191004/624386/MOV000241089_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191004/624386/MOV000241089_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191004/624386/MOV000241089_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151128/218180/IMG000209639_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151128/218180/IMG000209639_700X466.jpg"
           ],
           "description": "두 주먹의 1·2지를 펴서 반쯤 구부려 어깨 위에서 전후로 엇갈리게 움직인다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11237",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11237",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1410,13 +1410,13 @@
             "en": "Hospital"
           },
           "synonyms": [],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191101/633254/MOV000260406_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191101/633254/MOV000260406_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191101/633254/MOV000260406_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191101/633254/MOV000260406_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151210/225282/IMG000217978_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151210/225282/IMG000217978_700X466.jpg"
           ],
           "description": "오른 주먹의 1·2지를 펴서 끝 바닥으로, 손등이 밖으로 손끝이 오른쪽으로 향하게 편 왼 손등을 두 번 두드린다(진단을 받는 경우).",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=24010",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=24010",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1428,13 +1428,13 @@
           "synonyms": [
             "변소"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190918/615444/MOV000237322_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190918/615444/MOV000237322_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190918/615444/MOV000237322_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190918/615444/MOV000237322_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151120/213292/IMG000203972_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151120/213292/IMG000203972_700X466.jpg"
           ],
           "description": "오른손을 펴서 손바닥이 밖으로 향하게 세워 2·3·4지를 벌리고 1·5지를 ‘C’자 모양으로 구부린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=971",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=971",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1446,14 +1446,14 @@
           "synonyms": [
             "음식점"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20221019/1042458/MOV000360985_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20221019/1042458/MOV000360985_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20221019/1042458/MOV000360985_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20221019/1042458/MOV000360985_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151227/235699/IMG000230986_700X466.jpg",
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151227/235700/IMG000230987_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151227/235699/IMG000230986_700X466.jpg",
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151227/235700/IMG000230987_700X466.jpg"
           ],
           "description": "오른손을 펴서 손바닥이 위로 향하게 하여 입으로 두 번 올린 다음, 두 손의 손끝을 맞대어 좌우로 비스듬히 세운다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6970",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6970",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1467,13 +1467,13 @@
             "상점",
             "시장"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190918/615396/MOV000258781_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190918/615396/MOV000258781_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190918/615396/MOV000258781_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190918/615396/MOV000258781_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151230/237588/IMG000233402_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151230/237588/IMG000233402_700X466.jpg"
           ],
           "description": "두 손의 1·5지 끝을 맞대어 동그라미를 만들어 가슴 앞에서 전후로 엇갈리게 두 번 움직인다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11699",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11699",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1483,13 +1483,13 @@
             "en": "Bank"
           },
           "synonyms": [],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200825/735744/MOV000235075_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200825/735744/MOV000235075_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200825/735744/MOV000235075_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200825/735744/MOV000235075_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151116/210673/IMG000200816_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151116/210673/IMG000200816_700X466.jpg"
           ],
           "description": "두 주먹의 손목을 상하로 두 번 마주 댔다 뗀다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11464",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11464",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1501,14 +1501,14 @@
           "synonyms": [
             "기차역"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200820/732114/MOV000245034_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200820/732114/MOV000245034_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200820/732114/MOV000245034_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200820/732114/MOV000245034_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20201110/772117/IMG000356694_700X466.jpg",
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151207/223246/IMG000215509_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20201110/772117/IMG000356694_700X466.jpg",
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151207/223246/IMG000215509_700X466.jpg"
           ],
           "description": "손끝이 밖으로 향하게 펴서 모로 세운 왼 손바닥에 오른 주먹의 1·2지를 펴서 끝을 대고 밖으로 돌린 다음, 손바닥이 아래로 향하게 반쯤 구부린 오른손을 가슴 앞에서 약간 내리다가 멈춘다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=2760",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=2760",
           "credit": "국립국어원 한국수어사전"
         }
       ]
@@ -1527,13 +1527,13 @@
             "en": "Go"
           },
           "synonyms": [],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/632050/MOV000249486_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/632050/MOV000249486_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/632050/MOV000249486_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/632050/MOV000249486_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151216/228680/IMG000221896_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151216/228680/IMG000221896_700X466.jpg"
           ],
           "description": "오른손을 펴서 손등이 밖으로 손끝이 아래로 향하게 하여 내밀며 손끝을 약간 들어 올린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11796",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11796",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1545,13 +1545,13 @@
           "synonyms": [
             "도래"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628281/MOV000256338_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628281/MOV000256338_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628281/MOV000256338_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628281/MOV000256338_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151227/235201/IMG000230346_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151227/235201/IMG000230346_700X466.jpg"
           ],
           "description": "손등이 밖으로 향한 오른 주먹의 1지를 펴서 몸 가까이로 당긴다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7704",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7704",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1563,13 +1563,13 @@
           "synonyms": [
             "식사"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630761/MOV000250824_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630761/MOV000250824_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630761/MOV000250824_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630761/MOV000250824_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151218/230026/IMG000223590_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151218/230026/IMG000223590_700X466.jpg"
           ],
           "description": "오른손을 펴서, 손바닥이 위로 향하게 하여 두 번 입으로 올린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=10419",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=10419",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1579,13 +1579,13 @@
             "en": "Drink"
           },
           "synonyms": [],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/734844/MOV000251932_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/734844/MOV000251932_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/734844/MOV000251932_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/734844/MOV000251932_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151220/231037/IMG000224919_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151220/231037/IMG000224919_700X466.jpg"
           ],
           "description": "둥글게 쥐고 모로 세운 오른손을 입으로 약간 기울여 올린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6277",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6277",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1599,13 +1599,13 @@
             "잠들다",
             "잠자다"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630979/MOV000242454_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630979/MOV000242454_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630979/MOV000242454_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630979/MOV000242454_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151201/219827/IMG000211594_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151201/219827/IMG000211594_700X466.jpg"
           ],
           "description": "오른 주먹의 1·2지를 펴서 끝이 눈으로 향하게 하여 왼쪽에서 오른쪽으로 옮기면서 한 번 구부린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=4145",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=4145",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1615,13 +1615,13 @@
             "en": "See"
           },
           "synonyms": [],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190918/615395/MOV000253625_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190918/615395/MOV000253625_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190918/615395/MOV000253625_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190918/615395/MOV000253625_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151222/232640/IMG000227011_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151222/232640/IMG000227011_700X466.jpg"
           ],
           "description": "1지를 펴서 바닥이 안으로 향하게 세운 두 주먹을 상하로 엇갈리게 움직인다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6437",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6437",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1636,13 +1636,13 @@
             "청각",
             "오디오"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627247/MOV000250926_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627247/MOV000250926_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627247/MOV000250926_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627247/MOV000250926_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151218/230090/IMG000223705_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151218/230090/IMG000223705_700X466.jpg"
           ],
           "description": "오른 주먹의 1지를 펴서 반쯤 구부려 끝이 오른쪽 귀로 향하게 하여 좌우로 두 번 움직인다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6417",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6417",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1655,13 +1655,13 @@
             "말",
             "언어"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191031/632942/MOV000252377_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191031/632942/MOV000252377_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191031/632942/MOV000252377_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191031/632942/MOV000252377_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151220/231443/IMG000225447_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151220/231443/IMG000225447_700X466.jpg"
           ],
           "description": "오른 주먹의 1지를 펴서 세워 옆면을 입에 댔다가 밖으로 내민다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6135",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6135",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1673,13 +1673,13 @@
           "synonyms": [
             "지위"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/735121/MOV000238105_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/735121/MOV000238105_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/735121/MOV000238105_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/735121/MOV000238105_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151121/214187/IMG000205053_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151121/214187/IMG000205053_700X466.jpg"
           ],
           "description": "왼 주먹의 1·2지를 펴서 끝이 오른쪽으로 등이 위로 향하게 하고, 그 등에 오른 주먹의 1·2지를 펴서 구부려 바닥을 댄다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=1183",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=1183",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1692,13 +1692,13 @@
             "대기",
             "이따가"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628094/MOV000249602_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628094/MOV000249602_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628094/MOV000249602_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628094/MOV000249602_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151216/228800/IMG000222048_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151216/228800/IMG000222048_700X466.jpg"
           ],
           "description": "오른손을 ‘ㄱ’자 모양으로 구부려 끝이 약간 안으로 향하게 하여 손가락 등을 턱 밑에 댄다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7336",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7336",
           "credit": "국립국어원 한국수어사전"
         }
       ]
@@ -1724,13 +1724,13 @@
             "아무",
             "어디"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/632014/MOV000257351_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/632014/MOV000257351_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/632014/MOV000257351_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/632014/MOV000257351_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151228/236197/IMG000231612_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151228/236197/IMG000231612_700X466.jpg"
           ],
           "description": "오른 주먹의 1지를 펴서 바닥이 밖으로 향하게 세워 좌우로 두 번 흔든다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7224",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7224",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1740,14 +1740,14 @@
             "en": "Where"
           },
           "synonyms": [],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200820/732429/MOV000243844_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200820/732429/MOV000243844_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200820/732429/MOV000243844_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200820/732429/MOV000243844_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20210104/794550/IMG000358103_700X466.jpg",
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151204/221705/IMG000213791_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20210104/794550/IMG000358103_700X466.jpg",
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151204/221705/IMG000213791_700X466.jpg"
           ],
           "description": "오른 주먹의 1지를 펴서 바닥이 밖으로 향하게 세워 왼쪽으로 흔든 다음, 손바닥이 아래로 향하게 반쯤 구부린 오른손을 가슴 앞에서 약간 내리다가 멈춘다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8799",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8799",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1761,14 +1761,14 @@
             "날",
             "일자"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629670/MOV000255143_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629670/MOV000255143_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629670/MOV000255143_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629670/MOV000255143_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190722/603401/IMG000355719_700X466.jpg",
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190722/603402/IMG000355720_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190722/603401/IMG000355719_700X466.jpg",
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190722/603402/IMG000355720_700X466.jpg"
           ],
           "description": "가슴 앞에서 모로 세운 왼손 위에 모로 세운 오른손을 올려놓고 5·1·2·3·4지 순으로 손가락을 접는다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8602",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8602",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1780,14 +1780,14 @@
           "synonyms": [
             "어찌"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20201211/785449/MOV000357105_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20201211/785449/MOV000357105_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20201211/785449/MOV000357105_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20201211/785449/MOV000357105_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20210104/794551/IMG000358104_700X466.jpg",
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20210104/794552/IMG000358105_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20210104/794551/IMG000358104_700X466.jpg",
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20210104/794552/IMG000358105_700X466.jpg"
           ],
           "description": "오른 주먹의 1지를 펴서 바닥이 밖으로 향하게 세워 왼쪽으로 흔든 다음, 1·2지를 펴서 구부려 세운 두 주먹의 4지 옆면을 두 번 맞부딪친다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7256",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7256",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1800,13 +1800,13 @@
             "몇",
             "개수"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191101/633180/MOV000255265_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191101/633180/MOV000255265_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191101/633180/MOV000255265_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191101/633180/MOV000255265_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190722/603383/IMG000355709_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190722/603383/IMG000355709_700X466.jpg"
           ],
           "description": "손바닥이 위로 향하게 편 오른손의 손가락을 5·1·2·3·4지 순으로 접는다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7806",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7806",
           "credit": "국립국어원 한국수어사전"
         }
       ]
@@ -1828,14 +1828,14 @@
             "강우",
             "비가 내리다"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627272/MOV000253082_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627272/MOV000253082_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627272/MOV000253082_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627272/MOV000253082_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151221/232120/IMG000226337_700X466.jpg",
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151221/232121/IMG000226338_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151221/232120/IMG000226337_700X466.jpg",
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151221/232121/IMG000226338_700X466.jpg"
           ],
           "description": "오른 주먹의 1·5지를 펴서 구부려 입으로 약간 기울여 올린 다음, 두 손을 펴서 손끝이 아래로 손등이 밖으로 향하게 하여 상하로 두 번 움직인다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6463",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6463",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1847,14 +1847,14 @@
           "synonyms": [
             "눈(이 내리다)"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191010/626187/MOV000252721_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191010/626187/MOV000252721_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191010/626187/MOV000252721_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191010/626187/MOV000252721_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151221/231754/IMG000225878_700X466.jpg",
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151221/231755/IMG000225879_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151221/231754/IMG000225878_700X466.jpg",
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151221/231755/IMG000225879_700X466.jpg"
           ],
           "description": "오른 주먹의 1지를 펴서 끝으로 치아를 가리킨 다음, 손등이 위로 손끝이 밖으로 향하게 편 두 손의 손가락을 번갈아 움직이며 눈앞에서 아래로 내린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=5398",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=5398",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1866,13 +1866,13 @@
           "synonyms": [
             "더위"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627327/MOV000252024_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627327/MOV000252024_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627327/MOV000252024_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191014/627327/MOV000252024_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151220/231105/IMG000225033_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151220/231105/IMG000225033_700X466.jpg"
           ],
           "description": "두 손의 손가락을 자연스럽게 벌려 펴서 바닥이 아래로 향하게 하여 머리 양옆에서 동시에 두 번 상하로 흔든다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6492",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6492",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1888,13 +1888,13 @@
             "한랭",
             "차다"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628264/MOV000259166_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628264/MOV000259166_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628264/MOV000259166_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628264/MOV000259166_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151231/237969/IMG000233872_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151231/237969/IMG000233872_700X466.jpg"
           ],
           "description": "두 주먹을 가슴 앞으로 올려 떠는 동작을 한다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=9670",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=9670",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1909,13 +1909,13 @@
             "불다",
             "바람(을) 피우다"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191007/624846/MOV000253988_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191007/624846/MOV000253988_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191007/624846/MOV000253988_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191007/624846/MOV000253988_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151223/232997/IMG000227461_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151223/232997/IMG000227461_700X466.jpg"
           ],
           "description": "두 손을 벌려 손등이 위로 향하게 하였다가 안으로 두 번 돌려 올린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8328",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8328",
           "credit": "국립국어원 한국수어사전"
         }
       ]
@@ -1937,13 +1937,13 @@
             "음악",
             "가요"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191011/626462/MOV000252279_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191011/626462/MOV000252279_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191011/626462/MOV000252279_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191011/626462/MOV000252279_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151220/231338/IMG000225332_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151220/231338/IMG000225332_700X466.jpg"
           ],
           "description": "오른 주먹의 1·2지를 펴서 반쯤 구부려 입 앞에서 돌리며 밖으로 올린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=5520",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=5520",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1958,13 +1958,13 @@
             "추다",
             "춤추다"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630801/MOV000259461_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630801/MOV000259461_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630801/MOV000259461_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630801/MOV000259461_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20160101/238240/IMG000234231_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20160101/238240/IMG000234231_700X466.jpg"
           ],
           "description": "왼 주먹을 왼쪽 어깨 앞에 놓이게 하고 오른 주먹을 오른쪽 어깨 위에 놓이게 하여, 두 손목을 좌우로 돌린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7604",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7604",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1977,13 +1977,13 @@
             "스포츠",
             "체육"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629750/MOV000255186_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629750/MOV000255186_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629750/MOV000255186_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629750/MOV000255186_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151225/234114/IMG000228962_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151225/234114/IMG000228962_700X466.jpg"
           ],
           "description": "두 주먹을 어깨 위로 동시에 두 번 올렸다 내린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8925",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8925",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -1995,13 +1995,13 @@
           "synonyms": [
             "화상"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628021/MOV000256159_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628021/MOV000256159_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628021/MOV000256159_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191016/628021/MOV000256159_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151226/234992/IMG000230128_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151226/234992/IMG000230128_700X466.jpg"
           ],
           "description": "손등이 밖으로 손끝이 옆으로 향한 두 손을 약간의 간격을 두고 겹치게 하여 상하로 엇갈리게 두 번 움직인다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7145",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7145",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2011,13 +2011,13 @@
             "en": "Travel"
           },
           "synonyms": [],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629662/MOV000255710_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629662/MOV000255710_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629662/MOV000255710_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629662/MOV000255710_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151226/234646/IMG000229599_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151226/234646/IMG000229599_700X466.jpg"
           ],
           "description": "두 주먹의 1지를 펴서 끝이 양 어깨 뒤로 향하게 하여 돌리며 앞으로 내민다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8365",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8365",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2032,13 +2032,13 @@
             "책자",
             "펴다"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629479/MOV000257718_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629479/MOV000257718_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629479/MOV000257718_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629479/MOV000257718_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151229/236554/IMG000232064_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151229/236554/IMG000232064_700X466.jpg"
           ],
           "description": "두 손을 펴서 손끝이 밖으로 향하게 하여 맞댔다가 손목을 양옆으로 돌려 편다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8165",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8165",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2051,13 +2051,13 @@
             "노래",
             "가요"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191011/626462/MOV000252279_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191011/626462/MOV000252279_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191011/626462/MOV000252279_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191011/626462/MOV000252279_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151220/231338/IMG000225332_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151220/231338/IMG000225332_700X466.jpg"
           ],
           "description": "오른 주먹의 1·2지를 펴서 반쯤 구부려 입 앞에서 돌리며 밖으로 올린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=5520",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=5520",
           "credit": "국립국어원 한국수어사전"
         }
       ]
@@ -2082,13 +2082,13 @@
             "색채",
             "컬러"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630918/MOV000252844_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630918/MOV000252844_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630918/MOV000252844_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191025/630918/MOV000252844_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190730/605287/IMG000226041_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190730/605287/IMG000226041_700X466.jpg"
           ],
           "description": "오른손의 손가락을 구부려 턱에 대고 좌우로 두 번 움직인다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=5582",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=5582",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2102,13 +2102,13 @@
             "적자",
             "적색"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191011/626628/MOV000253518_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191011/626628/MOV000253518_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191011/626628/MOV000253518_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191011/626628/MOV000253518_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151222/232565/IMG000226883_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151222/232565/IMG000226883_700X466.jpg"
           ],
           "description": "오른 주먹의 1지를 펴서 옆면으로 입술 밑을 오른쪽으로 스쳐 낸다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6211",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6211",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2123,13 +2123,13 @@
             "파랗다",
             "푸르다"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190918/615402/MOV000234844_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190918/615402/MOV000234844_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190918/615402/MOV000234844_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20190918/615402/MOV000234844_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151115/210424/IMG000200510_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151115/210424/IMG000200510_700X466.jpg"
           ],
           "description": "오른 손바닥으로 오른뺨을 스쳐 내린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=103",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=103",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2142,13 +2142,13 @@
             "노랗다",
             "누렇다"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191029/632289/MOV000252275_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191029/632289/MOV000252275_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191029/632289/MOV000252275_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191029/632289/MOV000252275_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151220/231336/IMG000225328_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151220/231336/IMG000225328_700X466.jpg"
           ],
           "description": "오른 주먹의 1지를 펴서 끝으로 치아를 스쳐 낸다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=12177",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=12177",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2161,13 +2161,13 @@
             "녹색",
             "초록색"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200811/727512/MOV000252424_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200811/727512/MOV000252424_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200811/727512/MOV000252424_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200811/727512/MOV000252424_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20201223/790934/IMG000357878_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20201223/790934/IMG000357878_700X466.jpg"
           ],
           "description": "손끝이 위로 향하게 편 오른 손바닥을 오른뺨에 댔다가 떼면서 위로 올린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6185",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6185",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2182,13 +2182,13 @@
             "타다",
             "흑"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191015/627624/MOV000249378_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191015/627624/MOV000249378_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191015/627624/MOV000249378_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191015/627624/MOV000249378_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151215/228599/IMG000221761_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151215/228599/IMG000221761_700X466.jpg"
           ],
           "description": "오른 손바닥으로 머리 오른쪽을 스쳐 내린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6875",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6875",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2208,13 +2208,13 @@
             "이",
             "이빨"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/735147/MOV000244266_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/735147/MOV000244266_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/735147/MOV000244266_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/735147/MOV000244266_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151205/222334/IMG000214417_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151205/222334/IMG000214417_700X466.jpg"
           ],
           "description": "오른 주먹의 1지를 펴서 끝으로 치아를 가리킨다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=3024",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=3024",
           "credit": "국립국어원 한국수어사전"
         }
       ]
@@ -2236,13 +2236,13 @@
             "뇌",
             "두뇌"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/631998/MOV000250810_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/631998/MOV000250810_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/631998/MOV000250810_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191028/631998/MOV000250810_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151218/230016/IMG000223573_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151218/230016/IMG000223573_700X466.jpg"
           ],
           "description": "오른 주먹의 1지를 펴서 끝으로 머리 위를 가리킨다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11602",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11602",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2252,13 +2252,13 @@
             "en": "Nose"
           },
           "synonyms": [],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200825/735629/MOV000258033_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200825/735629/MOV000258033_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200825/735629/MOV000258033_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200825/735629/MOV000258033_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151229/236842/IMG000232450_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151229/236842/IMG000232450_700X466.jpg"
           ],
           "description": "오른 주먹의 1지를 펴서 끝 바닥을 코에 댄다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7042",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7042",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2270,13 +2270,13 @@
           "synonyms": [
             "이론"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629651/MOV000255081_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629651/MOV000255081_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629651/MOV000255081_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191021/629651/MOV000255081_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151224/233999/IMG000228834_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151224/233999/IMG000228834_700X466.jpg"
           ],
           "description": "오른 주먹의 1지를 펴서 입 주위를 한 바퀴 돌린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8308",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=8308",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2286,13 +2286,13 @@
             "en": "Ear"
           },
           "synonyms": [],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20160325/259822/MOV000268561_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20160325/259822/MOV000268561_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20160325/259822/MOV000268561_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20160325/259822/MOV000268561_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20160325/255358/IMG000268562_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20160325/255358/IMG000268562_700X466.jpg"
           ],
           "description": "오른 주먹의 1·5지로 오른쪽 귀를 잡는다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=3706",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=3706",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2304,13 +2304,13 @@
           "synonyms": [
             "맨손"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191029/632321/MOV000254829_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191029/632321/MOV000254829_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191029/632321/MOV000254829_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191029/632321/MOV000254829_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151224/233808/IMG000228489_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151224/233808/IMG000228489_700X466.jpg"
           ],
           "description": "오른 손바닥을 왼 손등에 댄다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=12255",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=12255",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2322,13 +2322,13 @@
           "synonyms": [
             "편찮다"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/735172/MOV000246972_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/735172/MOV000246972_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/735172/MOV000246972_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/735172/MOV000246972_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151226/235081/IMG000230111_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151226/235081/IMG000230111_700X466.jpg"
           ],
           "description": "손바닥이 위로 향하게 약간 오므린 오른손을 좌우로 흔든다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=5621",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=5621",
           "credit": "국립국어원 한국수어사전"
         }
       ]
@@ -2349,13 +2349,13 @@
           "synonyms": [
             "학업"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200812/728438/MOV000248732_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200812/728438/MOV000248732_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200812/728438/MOV000248732_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200812/728438/MOV000248732_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151214/227871/IMG000220922_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151214/227871/IMG000220922_700X466.jpg"
           ],
           "description": "손끝이 위로 손바닥이 옆으로 향하게 펴서 세운 두 손을 양쪽 귀 옆에서 밖으로 두 번 내민다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=3794",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=3794",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2372,13 +2372,13 @@
             "스승",
             "교직자"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191029/632444/MOV000249702_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191029/632444/MOV000249702_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191029/632444/MOV000249702_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191029/632444/MOV000249702_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151216/228912/IMG000222179_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151216/228912/IMG000222179_700X466.jpg"
           ],
           "description": "오른 주먹의 1·2지를 펴서 2지 옆면으로 모로 세운 왼 주먹의 손목을 두 번 두드린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=12704",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=12704",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2390,13 +2390,13 @@
           "synonyms": [
             "학도"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191001/623677/MOV000236245_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191001/623677/MOV000236245_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191001/623677/MOV000236245_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191001/623677/MOV000236245_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151118/211920/IMG000202382_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151118/211920/IMG000202382_700X466.jpg"
           ],
           "description": "오른손은 이마 오른쪽에서 왼손은 왼쪽 옆구리에서, 오른손은 아래위로 왼손은 위아래로 두 번 움직인다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=1362",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=1362",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2415,13 +2415,13 @@
             "승부",
             "시합"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200820/732640/MOV000256257_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200820/732640/MOV000256257_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200820/732640/MOV000256257_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200820/732640/MOV000256257_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151226/235144/IMG000230249_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151226/235144/IMG000230249_700X466.jpg"
           ],
           "description": "5지를 펴서 세운 두 주먹을, 등이 밖으로 향하게 마주 세워 상하로 번갈아 움직인다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11715",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11715",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2433,13 +2433,13 @@
           "synonyms": [
             "과제"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/630113/MOV000249150_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/630113/MOV000249150_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/630113/MOV000249150_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/630113/MOV000249150_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151215/228356/IMG000221463_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151215/228356/IMG000221463_700X466.jpg"
           ],
           "description": "손바닥이 위로 향하게 편 왼 손바닥에 오른손의 5지 끝을 대고 왼 손목 쪽으로 당기면서 손가락을 모은다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=9396",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=9396",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2449,13 +2449,13 @@
             "en": "Learn"
           },
           "synonyms": [],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/630004/MOV000254850_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/630004/MOV000254850_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/630004/MOV000254850_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/630004/MOV000254850_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151224/233731/IMG000228527_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151224/233731/IMG000228527_700X466.jpg"
           ],
           "description": "오른 주먹의 1지를 펴서 끝이 코로 향하게 구부려 코로 당기는 동작을 두 번 반복한다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=9131",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=9131",
           "credit": "국립국어원 한국수어사전"
         }
       ]
@@ -2474,13 +2474,13 @@
             "en": "Bus"
           },
           "synonyms": [],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/735232/MOV000255363_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/735232/MOV000255363_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/735232/MOV000255363_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200824/735232/MOV000255363_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151225/234309/IMG000229178_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151225/234309/IMG000229178_700X466.jpg"
           ],
           "description": "1·2지를 반쯤 구부려 모로 세운 오른 주먹 밑에서 손등이 위로 향한 왼손을 전후로 두 번 움직인다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7911",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=7911",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2492,13 +2492,13 @@
           "synonyms": [
             "전철"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/630168/MOV000258529_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/630168/MOV000258529_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/630168/MOV000258529_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/630168/MOV000258529_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151230/237313/IMG000233086_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151230/237313/IMG000233086_700X466.jpg"
           ],
           "description": "손등이 위로 손끝이 오른쪽으로 향하게 편 왼 손바닥 밑으로, 오른 주먹의 1·2·5지를 펴서 1·2지 등이 위로 끝이 밖으로 향하게 하여 1·2지와 5지 사이를 좁혔다 넓혔다 하며 오른쪽으로 이동시킨다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=9855",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=9855",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2508,13 +2508,13 @@
             "en": "Taxi"
           },
           "synonyms": [],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200819/731449/MOV000234643_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200819/731449/MOV000234643_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200819/731449/MOV000234643_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200819/731449/MOV000234643_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20210203/808846/IMG000358314_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20210203/808846/IMG000358314_700X466.jpg"
           ],
           "description": "오른 주먹의 5지를 펴서 1지 끝 바닥에 대고 세우고 전후로 흔든다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=120",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=120",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2527,13 +2527,13 @@
             "항공",
             "항공기"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191011/626502/MOV000253374_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191011/626502/MOV000253374_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191011/626502/MOV000253374_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191011/626502/MOV000253374_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151222/232336/IMG000226696_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151222/232336/IMG000226696_700X466.jpg"
           ],
           "description": "오른 주먹의 4·5지를 펴서 손등이 위로 향하게 하여 왼쪽 위로 내민다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=5545",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=5545",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2546,13 +2546,13 @@
             "기관차",
             "열차"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191015/627607/MOV000249874_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191015/627607/MOV000249874_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191015/627607/MOV000249874_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191015/627607/MOV000249874_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151123/215212/IMG000206219_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151123/215212/IMG000206219_700X466.jpg"
           ],
           "description": "손끝이 밖으로 향하게 펴서 모로 세운 왼 손바닥에 오른 주먹의 1·2지를 펴서 끝을 대고 밖으로 두 바퀴 돌린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6829",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=6829",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2566,13 +2566,13 @@
             "도보",
             "보행"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191007/624840/MOV000249241_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191007/624840/MOV000249241_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191007/624840/MOV000249241_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191007/624840/MOV000249241_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151215/228426/IMG000221578_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151215/228426/IMG000221578_700X466.jpg"
           ],
           "description": "오른 주먹의 1·2지를 펴서 끝이 아래로 향하게 하여 번갈아 내민다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=3762",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=3762",
           "credit": "국립국어원 한국수어사전"
         }
       ]
@@ -2597,10 +2597,10 @@
           "videoUrl": "",
           "thumbnailUrl": "",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151124/215801/IMG000206864_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151124/215801/IMG000206864_700X466.jpg"
           ],
           "description": "두 주먹의 1지를 펴서 손등이 밖으로 향하게 하여 상하로 나란히 놓고 엇갈리게 돌린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11290",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11290",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2612,14 +2612,14 @@
           "synonyms": [
             "농아인"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20201023/764388/MOV000252570_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20201023/764388/MOV000252570_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20201023/764388/MOV000252570_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20201023/764388/MOV000252570_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151221/231616/IMG000225696_700X466.jpg",
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20201223/790941/IMG000357885_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151221/231616/IMG000225696_700X466.jpg",
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20201223/790941/IMG000357885_700X466.jpg"
           ],
           "description": "오른 손바닥으로 오른쪽 귀를 막은 다음, 두 주먹의 4·5지를 펴서 끝이 위로 향하게 맞대고 세워 양쪽으로 벌린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11016",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=11016",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2633,13 +2633,13 @@
             "변호",
             "소개"
           ],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/630035/MOV000234719_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/630035/MOV000234719_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/630035/MOV000234719_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20191022/630035/MOV000234719_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151115/210301/IMG000200354_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20151115/210301/IMG000200354_700X466.jpg"
           ],
           "description": "오른 주먹의 5지를 펴서 세워 입 앞에서 좌우로 흔든다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=10533",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=10533",
           "credit": "국립국어원 한국수어사전"
         },
         {
@@ -2649,14 +2649,14 @@
             "en": "Disabled person"
           },
           "synonyms": [],
-          "videoUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200821/733491/MOV000237803_700X466.mp4",
-          "thumbnailUrl": "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200821/733491/MOV000237803_215X161.jpg",
+          "videoUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200821/733491/MOV000237803_700X466.mp4",
+          "thumbnailUrl": "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20200821/733491/MOV000237803_215X161.jpg",
           "imageUrls": [
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20210113/798810/IMG000358217_700X466.jpg",
-            "http://sldict.korean.go.kr/multimedia/multimedia_files/convert/20210113/798811/IMG000358218_700X466.jpg"
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20210113/798810/IMG000358217_700X466.jpg",
+            "https://sldict.korean.go.kr/multimedia/multimedia_files/convert/20210113/798811/IMG000358218_700X466.jpg"
           ],
           "description": "3‧4지를 접고 1지를 반쯤 구부린 두 손의 2‧5지 끝을 손등이 밖으로 향하게 맞댄 다음, 두 주먹의 4·5지를 펴서 끝이 위로 향하게 맞대고 세워 양옆으로 벌린다.",
-          "sourceUrl": "http://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=12490",
+          "sourceUrl": "https://sldict.korean.go.kr/front/sign/signContentsView.do?top_category=CTE&origin_no=12490",
           "credit": "국립국어원 한국수어사전"
         }
       ]

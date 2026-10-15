@@ -66,6 +66,9 @@ function parseXml(xml) {
   };
 }
 
+// iOS blocks plain-http media; sldict.korean.go.kr serves the same files over https.
+const https = (u) => u.replace(/^http:\/\/sldict\.korean\.go\.kr\//, 'https://sldict.korean.go.kr/');
+
 const clean = (v) => (typeof v === 'string' ? v.replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim() : '');
 
 function toSign(item, index) {
@@ -82,10 +85,10 @@ function toSign(item, index) {
     title,
     category: clean(item.categoryType) || '기타',
     description: clean(item.signDescription),
-    videoUrl: /\.mp4($|\?)/i.test(video) ? video : '',
-    thumbnailUrl: /^https?:\/\//.test(thumb) ? thumb : '',
-    imageUrls: images,
-    sourceUrl: clean(item.url),
+    videoUrl: /\.mp4($|\?)/i.test(video) ? https(video) : '',
+    thumbnailUrl: /^https?:\/\//.test(thumb) ? https(thumb) : '',
+    imageUrls: images.map(https),
+    sourceUrl: https(clean(item.url)),
     credit: ['국립국어원 한국수어사전', clean(item.copyrightOthers) || clean(item.rights)].filter(Boolean).join(' · '),
   };
 }
