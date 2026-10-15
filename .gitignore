@@ -43,4 +43,4 @@ example
 /android
 
 # raw API dump from scripts/sync-signs.mjs
-src/data/signs.raw.json
+data/signs.raw.json

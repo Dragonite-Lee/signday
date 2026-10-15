@@ -43,7 +43,8 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "lint": "expo lint",
-    "sync:signs": "node scripts/sync-signs.mjs"
+    "sync:signs": "node scripts/sync-signs.mjs",
+    "build:curriculum": "node scripts/build-curriculum.mjs"
   },
   "private": true
 }

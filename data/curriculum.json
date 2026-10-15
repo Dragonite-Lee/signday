@@ -1,0 +1,175 @@
+{
+  "_doc": "Beginner curriculum. Each word: [ko label, en label, find token, hint?]. find = one comma-separated token in the source title. hint = extra token that must appear in the chosen sign's title when several signs match. Run `npm run build:curriculum` after editing.",
+  "units": [
+    { "id": "greetings", "title": ["인사", "Greetings"], "words": [
+      ["안녕하세요", "Hello", "안녕"],
+      ["감사합니다", "Thank you", "감사", "고맙다"],
+      ["미안합니다", "Sorry", "미안"],
+      ["반갑습니다", "Nice to meet you", "반갑다"],
+      ["괜찮아요", "It's okay", "괜찮다"],
+      ["축하해요", "Congratulations", "축하"]
+    ]},
+    { "id": "answers", "title": ["대답", "Answers"], "words": [
+      ["네", "Yes", "예"],
+      ["아니요", "No", "아니다", "않다"],
+      ["알아요", "I know", "알다"],
+      ["몰라요", "I don't know", "모르다"],
+      ["좋아요", "Good", "좋다"],
+      ["싫어요", "I don't like it", "싫다"]
+    ]},
+    { "id": "people", "title": ["나와 너", "You and Me"], "words": [
+      ["나", "Me", "나"],
+      ["너", "You", "너"],
+      ["우리", "We", "우리"],
+      ["이름", "Name", "이름"],
+      ["친구", "Friend", "친구"],
+      ["누구", "Who", "누구"]
+    ]},
+    { "id": "family", "title": ["가족", "Family"], "words": [
+      ["가족", "Family", "가족"],
+      ["아버지", "Father", "아버지"],
+      ["어머니", "Mother", "어머니"],
+      ["형", "Older brother", "형"],
+      ["누나", "Older sister", "누나"],
+      ["동생", "Younger sibling", "동생"],
+      ["할머니", "Grandmother", "할머니"],
+      ["할아버지", "Grandfather", "할아버지"]
+    ]},
+    { "id": "feelings", "title": ["감정", "Feelings"], "words": [
+      ["기쁘다", "Happy", "기쁘다"],
+      ["슬프다", "Sad", "슬프다"],
+      ["화나다", "Angry", "화나다"],
+      ["사랑", "Love", "사랑"],
+      ["행복", "Happiness", "행복"],
+      ["걱정", "Worry", "걱정"],
+      ["무섭다", "Scared", "무섭다"],
+      ["피곤하다", "Tired", "피곤"]
+    ]},
+    { "id": "numbers", "title": ["숫자", "Numbers"], "words": [
+      ["하나", "One", "하나"],
+      ["둘", "Two", "둘"],
+      ["셋", "Three", "셋"],
+      ["넷", "Four", "넷"],
+      ["다섯", "Five", "다섯"],
+      ["여섯", "Six", "여섯"],
+      ["일곱", "Seven", "일곱"],
+      ["여덟", "Eight", "여덟"],
+      ["아홉", "Nine", "아홉"],
+      ["열", "Ten", "열"]
+    ]},
+    { "id": "time", "title": ["시간", "Time"], "words": [
+      ["오늘", "Today", "오늘"],
+      ["내일", "Tomorrow", "내일"],
+      ["어제", "Yesterday", "어제"],
+      ["아침", "Morning", "아침"],
+      ["저녁", "Evening", "저녁"],
+      ["밤", "Night", "밤"],
+      ["시간", "Time", "시간"]
+    ]},
+    { "id": "weekdays", "title": ["요일", "Days of the Week"], "words": [
+      ["월요일", "Monday", "월요일"],
+      ["화요일", "Tuesday", "화요일"],
+      ["수요일", "Wednesday", "수요일"],
+      ["목요일", "Thursday", "목요일"],
+      ["금요일", "Friday", "금요일"],
+      ["토요일", "Saturday", "토요일"],
+      ["일요일", "Sunday", "일요일"]
+    ]},
+    { "id": "food", "title": ["음식", "Food"], "words": [
+      ["물", "Water", "물"],
+      ["커피", "Coffee", "커피"],
+      ["빵", "Bread", "빵"],
+      ["과일", "Fruit", "과일"],
+      ["라면", "Ramen", "라면"],
+      ["김치", "Kimchi", "김치"],
+      ["고기", "Meat", "고기", "살"],
+      ["우유", "Milk", "우유"],
+      ["맛있다", "Delicious", "맛있다"]
+    ]},
+    { "id": "places", "title": ["장소", "Places"], "words": [
+      ["집", "Home", "집"],
+      ["학교", "School", "학교"],
+      ["회사", "Office", "회사"],
+      ["병원", "Hospital", "병원"],
+      ["화장실", "Restroom", "화장실"],
+      ["식당", "Restaurant", "식당"],
+      ["가게", "Store", "가게"],
+      ["은행", "Bank", "은행"],
+      ["역", "Station", "역"]
+    ]},
+    { "id": "actions", "title": ["동작", "Actions"], "words": [
+      ["가다", "Go", "가다"],
+      ["오다", "Come", "오다"],
+      ["먹다", "Eat", "먹다"],
+      ["마시다", "Drink", "마시다"],
+      ["자다", "Sleep", "자다"],
+      ["보다", "See", "보다"],
+      ["듣다", "Hear", "듣다"],
+      ["말하다", "Speak", "말하다"],
+      ["앉다", "Sit", "앉다"],
+      ["기다리다", "Wait", "기다리다"]
+    ]},
+    { "id": "questions", "title": ["질문", "Questions"], "words": [
+      ["무엇", "What", "무엇"],
+      ["어디", "Where", "어디"],
+      ["언제", "When", "언제"],
+      ["어떻게", "How", "어떻게"],
+      ["얼마", "How much", "얼마"]
+    ]},
+    { "id": "weather", "title": ["날씨", "Weather"], "words": [
+      ["비", "Rain", "비", "강우"],
+      ["눈", "Snow", "눈(이 내리다)"],
+      ["덥다", "Hot", "덥다"],
+      ["춥다", "Cold", "춥다"],
+      ["바람", "Wind", "바람"]
+    ]},
+    { "id": "hobbies", "title": ["취미", "Hobbies"], "words": [
+      ["노래", "Song", "노래"],
+      ["춤", "Dance", "춤"],
+      ["운동", "Exercise", "운동"],
+      ["영화", "Movie", "영화"],
+      ["여행", "Travel", "여행"],
+      ["책", "Book", "책"],
+      ["음악", "Music", "음악"]
+    ]},
+    { "id": "colors", "title": ["색깔", "Colors"], "words": [
+      ["색깔", "Color", "색"],
+      ["빨강", "Red", "빨강"],
+      ["파랑", "Blue", "파랑"],
+      ["노랑", "Yellow", "노랑"],
+      ["초록", "Green", "초록"],
+      ["검정", "Black", "검정"],
+      ["하양", "White", "하양"]
+    ]},
+    { "id": "body", "title": ["몸", "Body"], "words": [
+      ["머리", "Head", "머리"],
+      ["코", "Nose", "코"],
+      ["입", "Mouth", "입"],
+      ["귀", "Ear", "귀"],
+      ["손", "Hand", "손"],
+      ["아프다", "Hurt", "아프다"]
+    ]},
+    { "id": "school", "title": ["학교", "School"], "words": [
+      ["공부", "Study", "공부"],
+      ["선생님", "Teacher", "선생"],
+      ["학생", "Student", "학생"],
+      ["시험", "Exam", "시험"],
+      ["숙제", "Homework", "숙제"],
+      ["배우다", "Learn", "배우다"]
+    ]},
+    { "id": "transport", "title": ["교통", "Transport"], "words": [
+      ["버스", "Bus", "버스"],
+      ["지하철", "Subway", "지하철"],
+      ["택시", "Taxi", "택시"],
+      ["비행기", "Airplane", "비행기"],
+      ["기차", "Train", "기차"],
+      ["걷다", "Walk", "걷다"]
+    ]},
+    { "id": "sign-language", "title": ["수어", "Sign Language"], "words": [
+      ["수어", "Sign language", "수어"],
+      ["농인", "Deaf", "농인"],
+      ["통역", "Interpreting", "통역"],
+      ["장애인", "Disabled person", "장애인"]
+    ]}
+  ]
+}

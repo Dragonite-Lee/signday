@@ -57,6 +57,11 @@ export default function LessonScreen() {
           {sign.meaning.en}
         </ThemedText>
       ) : null}
+      {locale === 'ko' && sign.synonyms?.length ? (
+        <ThemedText type="small" themeColor="textSecondary" style={styles.center}>
+          {t.sameSign}: {sign.synonyms.join(', ')}
+        </ThemedText>
+      ) : null}
       {sign.description ? (
         <View style={[styles.howTo, { backgroundColor: theme.backgroundElement }]}>
           <ThemedText type="smallBold" themeColor="textSecondary">

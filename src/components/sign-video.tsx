@@ -62,7 +62,11 @@ function Player({ url }: { url: string }) {
     p.muted = true;
     p.play();
   });
-  return <VideoView player={player} style={styles.frame} contentFit="cover" nativeControls={false} />;
+  return (
+    <ThemedView type="backgroundElement" style={styles.frame}>
+      <VideoView player={player} style={styles.fill} contentFit="contain" nativeControls={false} />
+    </ThemedView>
+  );
 }
 
 const styles = StyleSheet.create({

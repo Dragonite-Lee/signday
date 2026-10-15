@@ -20,7 +20,7 @@ src/
     lesson/[id].tsx  # 수어 하나씩 보기
     quiz/[id].tsx    # 4지선다 퀴즈 → 완료 시 스트릭 갱신
   components/        # Button, Screen, SignVideo 등
-  data/lessons.ts    # signs.json → 레슨 변환 (+ 기본 단어)
+  data/lessons.ts    # curated.json → 레슨 변환 (+ ASL 기본 단어)
   store/progress.tsx # 언어·스트릭·완료 레슨 (AsyncStorage)
   utils/quiz.ts      # 문제 생성
   i18n.ts            # UI 문자열 ko/en (기기 언어 기준)
@@ -35,9 +35,9 @@ KCISA_KEY=발급받은키 npm run sync:signs   # api.kcisa.kr 접근 가능한 P
 node scripts/sync-signs.mjs ~/Downloads/signs-raw-*.json   # 또는 브라우저로 받은 원본에서
 ```
 
-- `signs.json`이 비어 있으면 기본 단어(영상/이미지 없음)로 동작.
-- 분류(`categoryType`)별로 5개씩 묶어 레슨 생성.
-- 수형 이미지(`signImages`)는 탭하면 다음 장, 수형 설명(`signDescription`)·출처 표기 표시.
+- 전체 데이터: `data/signs.all.json` (3,617개, 앱에 번들 안 됨)
+- 입문 커리큘럼: `data/curriculum.json` 편집 → `npm run build:curriculum` → `src/data/curated.json` (앱이 사용)
+- 단어별로 어떤 수어가 골렸는지 `data/curriculum.report.md`에서 확인 (⚠️ = 후보 여러 개, 힌트로 지정 가능)
 
 ## 수어 영상 규칙
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * 국립국어원 일상생활수어 (KCISA meta13/getCTE01701) → src/data/signs.json
+ * 국립국어원 일상생활수어 (KCISA meta13/getCTE01701) → data/signs.all.json
  *
  * Usage (run on a machine that can reach api.kcisa.kr):
  *   KCISA_KEY=발급받은서비스키 node scripts/sync-signs.mjs
@@ -21,8 +21,8 @@ if (!KEY && !FILES.length) {
 
 const ENDPOINT = 'https://api.kcisa.kr/openapi/service/rest/meta13/getCTE01701';
 const PAGE_SIZE = 100;
-const OUT = new URL('../src/data/signs.json', import.meta.url);
-const RAW = new URL('../src/data/signs.raw.json', import.meta.url); // full API dump, gitignored
+const OUT = new URL('../data/signs.all.json', import.meta.url);
+const RAW = new URL('../data/signs.raw.json', import.meta.url); // full API dump, gitignored
 
 async function fetchPage(pageNo) {
   // keyword must be present even when empty (provider requirement).
@@ -108,7 +108,7 @@ if (FILES.length) {
 }
 
 await writeFile(RAW, JSON.stringify(all, null, 2) + '\n');
-console.log(`\nraw: ${all.length} items → src/data/signs.raw.json`);
+console.log(`\nraw: ${all.length} items → data/signs.raw.json`);
 
 // Several words can share one sign (e.g. 썰매/스키): merge their titles instead of dropping.
 const byId = new Map();
@@ -121,5 +121,5 @@ for (const s of all.map(toSign)) {
 const signs = [...byId.values()];
 
 await writeFile(OUT, JSON.stringify({ syncedAt: new Date().toISOString(), signs }, null, 2) + '\n');
-console.log(`\n${signs.length} signs (of ${total}) → src/data/signs.json`);
+console.log(`\n${signs.length} signs (of ${total}) → data/signs.all.json`);
 if (!signs.length) console.log('Raw first item for debugging:', JSON.stringify(all[0], null, 2));

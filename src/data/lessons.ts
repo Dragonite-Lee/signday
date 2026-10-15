@@ -1,13 +1,14 @@
-import synced from './signs.json';
-import type { Lesson, Sign, SignLanguage, SyncedSign } from './types';
+import curated from './curated.json';
+import type { CuratedUnit, Lesson, SignLanguage } from './types';
 
+/** Lessons hold ~5 signs; a unit of 7+ words is split into evenly sized parts. */
 const LESSON_SIZE = 5;
 
 /**
- * Starter words used until signs.json is populated (and for ASL, which has no
- * public API yet). Words only — no media or hand-written descriptions.
+ * ASL has no public data source yet: words only, no media or descriptions.
+ * Replace once licensed ASL clips are sourced.
  */
-const STARTER: { id: string; title: { ko: string; en: string }; words: [string, string][] }[] = [
+const ASL_STARTER: { id: string; title: { ko: string; en: string }; words: [string, string][] }[] = [
   {
     id: 'greetings',
     title: { ko: '인사하기', en: 'Greetings' },
@@ -30,68 +31,44 @@ const STARTER: { id: string; title: { ko: string; en: string }; words: [string, 
       ['좋다', 'Good'],
     ],
   },
-  {
-    id: 'people',
-    title: { ko: '사람', en: 'People' },
-    words: [
-      ['나', 'Me'],
-      ['너', 'You'],
-      ['친구', 'Friend'],
-      ['가족', 'Family'],
-      ['농인', 'Deaf'],
-    ],
-  },
 ];
 
-function starterLessons(language: SignLanguage): Lesson[] {
-  return STARTER.map((l) => ({
-    id: `${language}-${l.id}`,
-    language,
+function aslLessons(): Lesson[] {
+  return ASL_STARTER.map((l) => ({
+    id: `asl-${l.id}`,
+    language: 'asl',
     title: l.title,
-    signs: l.words.map(([ko, en]) => ({ id: `${language}-${l.id}-${en}`, meaning: { ko, en } })),
+    signs: l.words.map(([ko, en]) => ({ id: `asl-${l.id}-${en}`, meaning: { ko, en } })),
   }));
 }
 
-/** Group synced KSL signs by category, then split into 5-sign lessons. */
-export function lessonsFromSynced(signs: SyncedSign[]): Lesson[] {
-  const byCategory = new Map<string, SyncedSign[]>();
-  for (const s of signs) {
-    const list = byCategory.get(s.category) ?? [];
-    list.push(s);
-    byCategory.set(s.category, list);
-  }
-
-  const lessons: Lesson[] = [];
-  for (const [category, list] of byCategory) {
-    for (let i = 0; i < list.length; i += LESSON_SIZE) {
-      const chunk = list.slice(i, i + LESSON_SIZE);
-      if (chunk.length < 2) continue; // a quiz needs distractors
-      const part = Math.floor(i / LESSON_SIZE) + 1;
-      lessons.push({
-        id: `ksl-${category}-${part}`,
-        language: 'ksl',
-        title: { ko: `${category} ${part}`, en: `${category} ${part}` },
-        signs: chunk.map<Sign>((s) => ({
+export function lessonsFromUnits(units: CuratedUnit[]): Lesson[] {
+  return units.flatMap((u) => {
+    const parts = Math.max(1, Math.round(u.signs.length / LESSON_SIZE));
+    const size = Math.ceil(u.signs.length / parts);
+    return Array.from({ length: parts }, (_, p) => {
+      const chunk = u.signs.slice(p * size, (p + 1) * size);
+      const suffix = parts > 1 ? ` ${p + 1}` : '';
+      return {
+        id: `ksl-${u.id}${parts > 1 ? `-${p + 1}` : ''}`,
+        language: 'ksl' as const,
+        title: { ko: u.title.ko + suffix, en: u.title.en + suffix },
+        signs: chunk.map((s) => ({
           id: s.id,
-          meaning: { ko: s.title, en: s.title },
+          meaning: s.label,
+          synonyms: s.synonyms,
           videoUrl: s.videoUrl || undefined,
           imageUrls: s.imageUrls,
           description: s.description,
           sourceUrl: s.sourceUrl,
           credit: s.credit,
         })),
-      });
-    }
-  }
-  return lessons;
+      };
+    }).filter((l) => l.signs.length >= 2);
+  });
 }
 
-const kslSynced = lessonsFromSynced((synced as { signs: SyncedSign[] }).signs);
-
-export const LESSONS: Lesson[] = [
-  ...(kslSynced.length ? kslSynced : starterLessons('ksl')),
-  ...starterLessons('asl'),
-];
+export const LESSONS: Lesson[] = [...lessonsFromUnits((curated as { units: CuratedUnit[] }).units), ...aslLessons()];
 
 export function lessonsFor(language: SignLanguage) {
   return LESSONS.filter((l) => l.language === language);
